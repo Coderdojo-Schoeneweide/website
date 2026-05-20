@@ -13,7 +13,7 @@ buttons:
     style: outline
     external: true
   - label: نظام الاشتراكات
-    url: /beitragsordnung.pdf
+    url: /docs/beitragsordnung.pdf
     style: outline
   - label: التقارير السنوية
     url: ../jahresberichte/

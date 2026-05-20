@@ -13,7 +13,7 @@ buttons:
     style: outline
     external: true
   - label: Beitragsordnung
-    url: /beitragsordnung.pdf
+    url: /docs/beitragsordnung.pdf
     style: outline
   - label: Jahresberichte
     url: ../jahresberichte/

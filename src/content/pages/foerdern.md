@@ -4,7 +4,7 @@ background: accent
 buttons:
   - label: Mitgliedschaftsantrag
     url: "/docs/antrag_foerdermitgliedschaft.pdf"
-    style: secondary
+    style: primary
   - label: Satzung
     url: '/docs/satzung.pdf'
     style: outline

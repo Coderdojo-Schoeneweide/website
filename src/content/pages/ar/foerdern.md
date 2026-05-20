@@ -4,7 +4,7 @@ background: accent
 buttons:
   - label: طلب العضوية
     url: "/docs/antrag_foerdermitgliedschaft.pdf"
-    style: secondary
+    style: primary
   - label: النظام الأساسي
     url: '/docs/satzung.pdf'
     style: outline
