@@ -28,7 +28,7 @@ const width = (await Promise.all(images.map(async (image) => await image())))
 const duration = width / speed + 's';
 ---
 
-<div class="carousel">
+<div class="carousel" style={`--duration: ${duration}`}>
   <div>
     {
       [...images, ...images].map((image) => (
@@ -44,49 +44,3 @@ const duration = width / speed + 's';
     }
   </div>
 </div>
-
-<style define:vars={{ duration }}>
-  @reference '../styles/global.css';
-
-  .carousel {
-    @apply overflow-hidden mask-x-from-90%;
-
-    > div {
-      @apply flex flex-row items-center gap-5;
-      animation: move var(--duration) infinite linear;
-    }
-
-    &:hover > div {
-      animation-play-state: paused;
-    }
-  }
-
-  picture {
-    @apply h-auto w-auto flex-shrink-0;
-  }
-
-  @keyframes move {
-    0% {
-      transform: translateX(0);
-    }
-
-    100% {
-      transform: translateX(-50%);
-    }
-  }
-
-  /* RTL support for Arabic and other RTL languages */
-  :global([dir='rtl']) .carousel > div {
-    animation: moveRTL var(--duration) infinite linear;
-  }
-
-  @keyframes moveRTL {
-    0% {
-      transform: translateX(0);
-    }
-
-    100% {
-      transform: translateX(50%);
-    }
-  }
-</style>

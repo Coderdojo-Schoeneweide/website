@@ -26,5 +26,5 @@ Teilnehmende benötigen:
 * [Godot](https://godotengine.org/) installiert
 * Internetverbindung oder Beispielgrafiken auf dem Rechner
 * Papier und Stifte
-* [Anleitung: Erste Schritte](https://coderdojo-schoeneweide.github.io/docs/anleitung-godot-erste-schritte.pdf)
-* [Anleitung: Skripting](https://coderdojo-schoeneweide.github.io/docs/anleitung-godot-skripting.pdf)
+* [Anleitung: Erste Schritte](https://coderdojo-schoeneweide.de/docs/anleitung-godot-erste-schritte.pdf)
+* [Anleitung: Skripting](https://coderdojo-schoeneweide.de/docs/anleitung-godot-skripting.pdf)

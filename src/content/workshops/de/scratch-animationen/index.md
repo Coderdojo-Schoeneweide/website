@@ -25,4 +25,4 @@ Teilnehmende benötigen:
 * Computer oder Tablet
 * Internetverbindung und Browser oder Scratch App
 * Papier und Stifte
-* [Storyboard-Vorlage des CoderDojo Schöneweide](https://coderdojo-schoeneweide.github.io/docs/storyboard-vorlage.jpg)
+* [Storyboard-Vorlage des CoderDojo Schöneweide](https://coderdojo-schoeneweide.de/docs/storyboard-vorlage.jpg)

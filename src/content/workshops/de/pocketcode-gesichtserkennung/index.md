@@ -30,8 +30,8 @@ Teilnehmende benötigen:
 * Installierte Mal-App, z.B. "Pocket Paint"
 * Mikrofon und Lautsprecher
 * Papier und Stifte
-* [Anleitung des CoderDojo Schöneweide für Android](https://coderdojo-schoeneweide.github.io/docs/anleitung-pocketcode-ar-android.pdf)
-* [Anleitung des CoderDojo Schöneweide für iOS](https://coderdojo-schoeneweide.github.io/docs/anleitung-pocketcode-ar-ios.pdf)
+* [Anleitung des CoderDojo Schöneweide für Android](https://coderdojo-schoeneweide.de/docs/anleitung-pocketcode-ar-android.pdf)
+* [Anleitung des CoderDojo Schöneweide für iOS](https://coderdojo-schoeneweide.de/docs/anleitung-pocketcode-ar-ios.pdf)
 
 
 Bildquelle: [PocketCode](https://wiki.catrobat.org/bin/view/Education/Tinkering%20With%20Your%20Phone/Face%20Recognition/)

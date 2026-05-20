@@ -34,4 +34,4 @@ authors:
 والتحدث عمّا سار بشكل جيد وما الذي كان يمكن تحسينه.
 
 يمكن العثور على نظرة عامة لمحتوى هذه الورشة، إضافة إلى الإرشادات الخاصة بـ iOS وAndroid، عبر
-[workshops > Foto-Filter-App](https://coderdojo-schoeneweide.github.io/workshops/pocketcode-gesichtserkennung/).
+[workshops > Foto-Filter-App](https://coderdojo-schoeneweide.de/workshops/pocketcode-gesichtserkennung/).

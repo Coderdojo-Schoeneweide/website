@@ -32,4 +32,4 @@ try it out for themselves. The mentors supported and motivated the children and 
 At the end, we had “show time”, where all mentors, children and parents had the opportunity to present their project and also to say what went well and what could have been better.
 what went well and what could have been better.
 
-The overview of the contents of this workshop and the instructions for iOS and Android can be found at [workshops > Photo filter app](https://coderdojo-schoeneweide.github.io/workshops/pocketcode-gesichtserkennung/) zu finden.
+The overview of the contents of this workshop and the instructions for iOS and Android can be found at [workshops > Photo filter app](https://coderdojo-schoeneweide.de/workshops/pocketcode-gesichtserkennung/) zu finden.

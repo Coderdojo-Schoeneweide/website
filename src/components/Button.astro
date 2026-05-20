@@ -10,9 +10,10 @@ interface Props {
   stretch?: boolean;
   className?: string;
   icon?: IconDefinition;
+  external?: boolean;
 }
 
-const { link, stretch, className, icon } = Astro.props;
+const { link, stretch, className, icon, external } = Astro.props;
 
 const styles = {
   brand: 'brand',
@@ -20,11 +21,12 @@ const styles = {
 };
 
 const style = [];
+const target = external ? '_blank' : '_self';
 if (Astro.props.variant) style.push(styles[Astro.props.variant]);
 if (stretch) style.push('stretch');
 ---
 
-<a href={link} class={className}>
+<a href={link} class={className} target={target}>
   <button class:list={style}>
     {
       icon ?

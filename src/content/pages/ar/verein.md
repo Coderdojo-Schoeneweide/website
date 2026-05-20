@@ -9,7 +9,7 @@ buttons:
     url: ../foerdern/
     style: primary
   - label: النظام الأساسي
-    url: /satzung.pdf
+    url: /docs/satzung.pdf
     style: outline
     external: true
   - label: نظام الاشتراكات

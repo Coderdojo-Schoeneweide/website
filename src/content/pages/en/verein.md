@@ -9,11 +9,11 @@ buttons:
     url: ../foerdern/
     style: primary
   - label: Statutes
-    url: /satzung.pdf
+    url: /docs/satzung.pdf
     style: outline
     external: true
   - label: Contribution Order
-    url: /beitragsordnung.pdf
+    url: /docs/beitragsordnung.pdf
     style: outline
   - label: Annual Reports
     url: ../jahresberichte/

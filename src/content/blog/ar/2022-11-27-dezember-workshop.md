@@ -20,4 +20,4 @@ authors:
 ![](/images/cms/teilnehmende.png "Teilnehmende des Workshops")
 
 بعد أن نفذنا هذه الورشة سابقا عبر الإنترنت، أتيحت هذه المرة لأول مرة بشكل حضوري.
-ويمكنكم العثور على وصف مختصر للورشة أيضا هنا [Workshops > Es Spricht!](https://coderdojo-schoeneweide.github.io/workshops/scratch-lippensynchronisation/)
+ويمكنكم العثور على وصف مختصر للورشة أيضا هنا [Workshops > Es Spricht!](https://coderdojo-schoeneweide.de/workshops/scratch-lippensynchronisation/)

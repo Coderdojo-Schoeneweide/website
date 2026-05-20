@@ -23,7 +23,7 @@ Zwei Wochen vor unserem Juli-Workshop kam die Idee auf, dass es ggf. möglich is
    ![](/images/cms/erster-live-workshop_location.jpg)
 2. *Kinder- und Jugendschutzplan*\
    Kinder- und Jugendschutz ist ein wichtiger Aspekt bei der Arbeit mit Schüler:innen. Der CoderDojo Deutschland e.V., in dem wir als CoderDojo Schöneweide Mitglied sind, arbeitet kontinuierlich an wichtigen Aspekten des Kinder- und Jugendschutzes der deutschen CoderDojos. Auch auf weltweiter Ebene gibt es entsprechende Leitfäden, nach denen wir uns richten.
-3. *[Hygienekonzept](https://coderdojo-schoeneweide.github.io/docs/hygienekonzept.pdf)*\
+3. *[Hygienekonzept](https://coderdojo-schoeneweide.de/docs/hygienekonzept.pdf)*\
    Abgesehen davon, dass sich die Hygienevorschriften mit den wechselnden Covid-19 Infektionszahlen ständig ändern, hatten wir bisher noch nicht einmal ein Muster, an dem wir uns orientieren konnten. Das ist jetzt anders! Mit Unterstützung unseres Versicherungsberaters und den Internetseiten des Landesjugendrings Berlins ist ein ausführliches Hygienekonzept entstanden, das regelmäßig an die aktuell gültigen Maßnahmen angepasst werden kann.
 4. *Material*\
    Was wir online nicht zu Verfügung stellen können: Einen PC. Bei einem live Treffen hingegen möchten wir die Chance nutzen auch Kindern und Jugendlichen die Teilnahme zu ermöglichen, die weder eigenen Laptop noch eigenes Smartphone besitzen. Da der CoderDojo Schöneweide ausschließlich ehrenamtlich funktioniert, war bei diesem ersten Präsenz-Dojo die Auswahl allerdings auf das begrenzt, was die anwesenden Mentor:innen übrig hatten. Langfristig arbeiten wir noch an einer besseren Lösung. Außerdem hatten wir an diesem Donnerstag das Glück, dass Bruno einen großen Bildschirm mitbringen konnte, sodass die Ergebnisse der ganzen Gruppe gezeigt werden konnten.
@@ -36,4 +36,4 @@ Zwei Wochen vor unserem Juli-Workshop kam die Idee auf, dass es ggf. möglich is
 
    ![](/images/cms/erster-live-workshop_snacks.jpg)
 
-Wie sah denn das nun in der Praxis aus? Unser erstes Präsenz-Dojo war ein voller Erfolg. Einen ausführlichen Erlebnisbericht findet ihr [hier](https://coderdojo-schoeneweide.github.io/blog/2021-07-29-juli-workshop/).
+Wie sah denn das nun in der Praxis aus? Unser erstes Präsenz-Dojo war ein voller Erfolg. Einen ausführlichen Erlebnisbericht findet ihr [hier](https://coderdojo-schoeneweide.de/blog/2021-07-29-juli-workshop/).

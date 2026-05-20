@@ -28,8 +28,8 @@ prevKnowledge = "لا حاجة إلى معرفة سابقة"
 * تطبيق الرسم المثبت، مثل "Pocket Paint"
 * ميكروفون ومكبر صوت
 * ورق وأقلام
-* [إرشادات لـ CoderDojo Schöneweide لنظام أندرويد](https://coderdojo-schoeneweide.github.io/docs/anleitung-pocketcode-ar-android.pdf)
-* [تعليمات ل CoderDojo Schöneweide لنظام iOS](https://coderdojo-schoeneweide.github.io/docs/anleitung-pocketcode-ar-ios.pdf)
+* [إرشادات لـ CoderDojo Schöneweide لنظام أندرويد](https://coderdojo-schoeneweide.de/docs/anleitung-pocketcode-ar-android.pdf)
+* [تعليمات ل CoderDojo Schöneweide لنظام iOS](https://coderdojo-schoeneweide.de/docs/anleitung-pocketcode-ar-ios.pdf)
 
 
 مصدر الصورة: [PocketCode](https://wiki.catrobat.org/bin/view/Education/Tinkering%20With%20Your%20Phone/Face%20Recognition/)

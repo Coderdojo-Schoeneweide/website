@@ -18,5 +18,5 @@ authors: [Linda]
 وبسبب تجربتنا الإيجابية جدًا معه، نرغب في الاستمرار باستخدام PocketCode لخفض العوائق
 أمام المشاركة في الدوجو، والمساهمة فعليًا في تحقيق عدالة تعليمية أكبر.
 
-يمكنكم العثور على الدليل التفصيلي لإنشاء فلتر صور باستخدام PocketCode [على موقعنا](https://coderdojo-schoeneweide.github.io/docs/anleitung-pocketcode-ar.pdf)
+يمكنكم العثور على الدليل التفصيلي لإنشاء فلتر صور باستخدام PocketCode [على موقعنا](https://coderdojo-schoeneweide.de/docs/anleitung-pocketcode-ar.pdf)
 وتجربته في المنزل.

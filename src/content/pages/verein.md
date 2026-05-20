@@ -9,7 +9,7 @@ buttons:
     url: ../foerdern/
     style: primary
   - label: Satzung
-    url: /satzung.pdf
+    url: /docs/satzung.pdf
     style: outline
     external: true
   - label: Beitragsordnung

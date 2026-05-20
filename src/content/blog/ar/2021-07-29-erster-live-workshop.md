@@ -27,7 +27,7 @@ authors:
    حماية الأطفال واليافعين عنصر أساسي في العمل مع التلاميذ.
    وتعمل CoderDojo Deutschland e.V.، التي ننتمي إليها كـ CoderDojo Schöneweide، بشكل مستمر على الجوانب المهمة لحماية الأطفال واليافعين في CoderDojos داخل ألمانيا.
    كما توجد إرشادات مماثلة على المستوى العالمي نلتزم بها.
-3. *[Hygienekonzept](https://coderdojo-schoeneweide.github.io/docs/hygienekonzept.pdf)*\
+3. *[Hygienekonzept](https://coderdojo-schoeneweide.de/docs/hygienekonzept.pdf)*\
    إضافة إلى أن قواعد النظافة كانت تتغير باستمرار مع تغير أعداد إصابات Covid-19، لم يكن لدينا سابقًا أي نموذج واضح نستند إليه.
    الآن تغيّر الوضع! فبدعم من مستشار التأمين لدينا وبالاستفادة من مواقع Landesjugendring Berlin،
    وضعنا مفهومًا تفصيليًا للنظافة يمكن تحديثه دوريًا بما يتوافق مع الإجراءات السارية.
@@ -50,4 +50,4 @@ authors:
    ![](/images/cms/erster-live-workshop_snacks.jpg)
 
 وكيف بدا ذلك عمليًا؟ كان أول دوجو حضوري لنا نجاحًا كاملًا.
-ويمكنكم قراءة تقرير التجربة المفصل [هنا](https://coderdojo-schoeneweide.github.io/blog/2021-07-29-juli-workshop/).
+ويمكنكم قراءة تقرير التجربة المفصل [هنا](https://coderdojo-schoeneweide.de/blog/2021-07-29-juli-workshop/).

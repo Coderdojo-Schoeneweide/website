@@ -22,7 +22,7 @@ As part of a board game we created, robots were maneuvered through a park to col
 Along the way, the participants internalized basic programming principles: Instruction sequences, loops,
 parameters and conditions. With this knowledge, some of the participants even managed to
 to program a simple algorithm to automatically find the path through the park.
-You can find the board game at [Müll im Park.pdf](https://coderdojo-schoeneweide.github.io/docs/spiel-muell-im-park.pdf)
+You can find the board game at [Müll im Park.pdf](https://coderdojo-schoeneweide.de/docs/spiel-muell-im-park.pdf)
 to build it yourself.
 
 Programming was not only analog, but also digital. Participants learned how servomotors for robot movements

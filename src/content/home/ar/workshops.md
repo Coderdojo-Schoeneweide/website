@@ -4,7 +4,7 @@ style: dark
 order: 1
 buttons:
   ticket:
-    label: شراء تذكرة
+    label: سجل مجاناً
     url: https://pretix.eu/dojosw
   more:
     label: مزيد من المعلومات

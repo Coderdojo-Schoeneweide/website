@@ -142,7 +142,7 @@ Slack،
 ⚖️ الأساس القانوني: المصلحة المشروعة (المادة 6 الفقرة 1 الحرف و من اللائحة)
 
 ملاحظة: بالنسبة للمدربين، تنطبق شروط خاصة لحماية البيانات نظراً لحماية الطفل والشباب
-[شروط الخصوصية المنفصلة](https://coderdojo-schoeneweide.github.io/docs/einverstaendniserklaerung-datenverarbeitung.pdf).
+[شروط الخصوصية المنفصلة](https://coderdojo-schoeneweide.de/docs/einverstaendniserklaerung-datenverarbeitung.pdf).
 
 ## الحقوق بموجب لائحة حماية البيانات العامة
 

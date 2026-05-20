@@ -22,4 +22,4 @@ Participants need:
 * Computer or tablet
 * Internet connection and browser or Scratch app
 * Paper and pens
-* [Storyboard template from CoderDojo Schöneweide](https://coderdojo-schoeneweide.github.io/docs/storyboard-vorlage.jpg)
+* [Storyboard template from CoderDojo Schöneweide](https://coderdojo-schoeneweide.de/docs/storyboard-vorlage.jpg)

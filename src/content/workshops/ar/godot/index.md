@@ -23,5 +23,5 @@ tags = ["spiel", "design", "godot"]
 * تثبيت [غودوت] (https://godotengine.org/)
 * اتصال بالإنترنت أو نموذج رسومات على الكمبيوتر
 * ورق وأقلام
-* [التعليمات: الخطوات الأولى](https://coderdojo-schoeneweide.github.io/docs/anleitung-godot-erste-schritte.pdf)
-* [التعليمات: البرمجة النصية](https://coderdojo-schoeneweide.github.io/docs/anleitung-godot-skripting.pdf)
+* [التعليمات: الخطوات الأولى](https://coderdojo-schoeneweide.de/docs/anleitung-godot-erste-schritte.pdf)
+* [التعليمات: البرمجة النصية](https://coderdojo-schoeneweide.de/docs/anleitung-godot-skripting.pdf)

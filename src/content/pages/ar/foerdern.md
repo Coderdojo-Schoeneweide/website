@@ -3,13 +3,13 @@ title: كن عضوًا داعمًا
 background: accent
 buttons:
   - label: طلب العضوية
-    url: "/foerdermitgliedschaftsantrag.pdf"
+    url: "/docs/antrag_foerdermitgliedschaft.pdf"
     style: secondary
   - label: النظام الأساسي
-    url: '/satzung.pdf'
+    url: '/docs/satzung.pdf'
     style: outline
   - label: نظام الاشتراكات
-    url: /beitragsordnung.pdf
+    url: /docs/beitragsordnung.pdf
     style: outline
 ---
 نحتاج إلى تمويل للتكنولوجيا والمواد والإدارة والعلاقات العامة — ولا سيما لاستقطاب متطوعين جدد. **لهذا السبب، يسعدنا أن تنضم إلينا عضوًا داعمًا في CoderDojo Schöneweide e.V.**

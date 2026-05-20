@@ -3,13 +3,13 @@ title: Werde Fördermitglied
 background: accent
 buttons:
   - label: Mitgliedschaftsantrag
-    url: "/foerdermitgliedschaftsantrag.pdf"
+    url: "/docs/antrag_foerdermitgliedschaft.pdf"
     style: secondary
   - label: Satzung
-    url: '/satzung.pdf'
+    url: '/docs/satzung.pdf'
     style: outline
   - label: Beitragsordnung
-    url: /beitragsordnung.pdf
+    url: '/docs/beitragsordnung.pdf'
     style: outline
 ---
 

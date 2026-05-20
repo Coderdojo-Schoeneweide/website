@@ -26,12 +26,12 @@
       "made-with": "Gemacht mit ❤️ vom {{title}} Team"
     },
     "common": {
-      "buy-ticket-aria": "Tickets buchen",
+      "buy-ticket-aria": "Kostenlos Anmelden",
       "toggle-mobile-menu": "Mobiles Menü umschalten"
     },
     "homepage": {
       "title": {
-        "buy-ticket": "Tickets buchen",
+        "buy-ticket": "Kostenlos Anmelden",
         "donate": "Spenden"
       }
     },

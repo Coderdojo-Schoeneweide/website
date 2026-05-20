@@ -4,7 +4,7 @@ style: dark
 order: 1
 buttons:
   ticket:
-    label: Buy ticket
+    label: Free registration
     url: https://pretix.eu/dojosw
   more:
     label: More info

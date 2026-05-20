@@ -34,4 +34,4 @@ auszuprobieren. Die Mentor:innen haben die Kinder und ihre Eltern dabei unterst�
 Am Ende hatten wir die "Show Time", bei der alle Mentor:innen, Kinder und Eltern die Möglichkeit hatten, ihre Projekt vorzustellen und auch zu 
 sagen, was gut lief und was hätte besser sein können.
 
-Die Übersicht über die Inhalte dieses Workshops und die Anleitungen für iOS und Android sind unter [workshops > Foto-Filter-App](https://coderdojo-schoeneweide.github.io/workshops/pocketcode-gesichtserkennung/) zu finden.
+Die Übersicht über die Inhalte dieses Workshops und die Anleitungen für iOS und Android sind unter [workshops > Foto-Filter-App](https://coderdojo-schoeneweide.de/workshops/pocketcode-gesichtserkennung/) zu finden.

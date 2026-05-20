@@ -22,4 +22,4 @@ Participants will need:
 * smartphone or tablet
 * to install the app "OctoStudio" (available on Google Play or the App Store)
 * paper and pens
-* [Instruction from CoderDojo Schöneweide](https://coderdojo-schoeneweide.github.io/docs/anleitung-octostudio-haustierapp.pdf)
+* [Instruction from CoderDojo Schöneweide](https://coderdojo-schoeneweide.de/docs/anleitung-octostudio-haustierapp.pdf)

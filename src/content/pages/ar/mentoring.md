@@ -3,13 +3,13 @@ title: الإرشاد
 background: light
 buttons:
   - label: تواصل معنا
-    url: mailto:hallo@coderdojo-schoeneweide.de
+    url: mailto:engagieren@coderdojo-schoeneweide.de
     style: primary
 ---
 
 هل ترغب في التطوع معنا؟
 
-رائع جدًا! أرسل لنا بريدًا إلكترونيًا على [hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de)
+رائع جدًا! أرسل لنا بريدًا إلكترونيًا على [engagieren@coderdojo-schoeneweide.de](mailto:engagieren@coderdojo-schoeneweide.de)
 
 ## ما الذي ينتظرك
 

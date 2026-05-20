@@ -24,7 +24,7 @@ Im Rahmen eines von uns erstellten Brettspiels wurden Roboter durch einen Park m
 Nebenbei verinnerlichten die Teilnehmer:innen grundlegende Programmierprinzipien: Befehlsfolgen, Schleifen,
 Parameter und Bedingungen kennenlernen. Mit diesem Wissen schaffte es am Ende sogar einige Teilnehmer:innen,
 einen einfachen Algorithmus zum automatischen Finden des Pfades durch den Park zu programmieren.
-Das Brettspiel findet ihr unter [Müll im Park.pdf](https://coderdojo-schoeneweide.github.io/docs/spiel-muell-im-park.pdf)
+Das Brettspiel findet ihr unter [Müll im Park.pdf](https://coderdojo-schoeneweide.de/docs/spiel-muell-im-park.pdf)
 zum selber basteln.
 
 Nicht nur analog, sondern auch digital wurde programmiert. Teilnehmer:innen lernten, wie Servomotoren für

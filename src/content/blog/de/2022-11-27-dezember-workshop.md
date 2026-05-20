@@ -22,4 +22,4 @@ Mit Hilfe unseres Lip-Sync-Toolkits konnten sich die Teilnehmenden schnell über
 ![](/images/cms/teilnehmende.png "Teilnehmende des Workshops")
 
 Nachdem wir diesen Workshop bereits zuvor online durchgeführt hatten, konnte er diesmal zum ersten mal in Präsenz stattfinden.
-Eine Kurzbeschreibung des Workshops findet sich auch unter [Workshops > Es Spricht!](https://coderdojo-schoeneweide.github.io/workshops/scratch-lippensynchronisation/)
+Eine Kurzbeschreibung des Workshops findet sich auch unter [Workshops > Es Spricht!](https://coderdojo-schoeneweide.de/workshops/scratch-lippensynchronisation/)

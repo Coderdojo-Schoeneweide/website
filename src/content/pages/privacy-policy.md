@@ -60,7 +60,7 @@ Wenn Sie mit uns per E-Mail oder Social Media kommunizieren, werden Daten gegebe
 Endgerät (Computer, Laptop, Smartphone, ...) gespeichert und es kommt zur Speicherung von Daten auf dem
 E-Mail-Server oder dem Server des Social Media Anbieters.
 
-**Zusammenfassung**  
+**Zusammenfassung**
 👥 Betroffene: Alle, die mit uns per Telefon, E-Mail, Slack oder Social Media kommunizieren  
 📓 Verarbeitete Daten: Telefonnummer, Name, E-Mail-Adresse, Slack-Benutzernamen, sonstige geteilte Daten
 🤝 Zweck: Abwicklung der Kommunikation mit Kund:innen, Geschäftspartner:innen, Teammitgliedern usw.  
@@ -83,12 +83,12 @@ Insbesondere
   Veranstaltung gibt, falls wir uns Sorgen über nicht erschienene Teilnehmende machen, oder falls ein Notfall während
   einer Veranstaltung eingetroffen ist (z.B. ein Kind krank geworden ist)
 
-**Zusammenfassung**  
+**Zusammenfassung**
 👥 Betroffene: Alle, die ein Kund:innenkonto für unseren Pretix-Ticketshop haben und über Pretix Plätze für unsere
-Veranstaltungen buchen, und deren Schützlinge.  
-📓 Verarbeitete Daten: z. B. Name, Telefonnummer, E-Mail-Adresse, Alter der Teilnehmenden, eingegebene Formulardaten.   
-🤝 Zweck: Erbringung der vereinbarten Leistungen einschließlich zugehörige Kommunikation  
-📅 Speicherdauer: Dauer des Geschäftsfalls und der gesetzlichen Vorschriften    
+Veranstaltungen buchen, und deren Schützlinge.
+📓 Verarbeitete Daten: z. B. Name, Telefonnummer, E-Mail-Adresse, Alter der Teilnehmenden, eingegebene Formulardaten.
+🤝 Zweck: Erbringung der vereinbarten Leistungen einschließlich zugehörige Kommunikation
+📅 Speicherdauer: Dauer des Geschäftsfalls und der gesetzlichen Vorschriften
 ⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
 
 ### Kooperationen
@@ -129,8 +129,7 @@ Namen an (dieser soll eindeutig sein, muss aber nicht der vollständige Name/ Na
 Außerdem können Sie weitere personenbezogenen Angaben machen, die uns die Verwaltung der Teammitglieder erleichtert,
 z.B.  
 eine Telefonnummer, eine GMAIL-Adresse für den geteilten Kalender, den Slack-Benutzernamen für die Kommunikation via
-Slack,
-den Trello-Benutzernamen für das Projektmanagement, den GitHub-Benutzernamen, falls Zugriff zu GitHub gewünscht ist,
+Slack, den GitHub-Benutzernamen, falls Zugriff zu GitHub gewünscht ist,
 den Canva-Benutzernamen, falls Zugriff zu Canva gewünscht ist, Facebook-Benutzername, falls Zugriff zur Facebook-Seite
 gewünscht ist.
 Diese Daten werden für die Dauer der Teammitgliedschaft gespeichert.
@@ -147,7 +146,22 @@ und eine Kontakt-Email-Adresse, sowie ihr Beitrittsdatum, für die Dauer der Ver
 ⚖️ Rechtsgrundlagen: Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)
 
 Hinweis: Für Mentor:innen gelten auf Grund des Kinder- und Jugendschutzes
-[gesonderte Datenschutzbedingungen](https://coderdojo-schoeneweide.github.io/docs/einverstaendniserklaerung-datenverarbeitung.pdf).
+[gesonderte Datenschutzbedingungen](https://coderdojo-schoeneweide.de/docs/einverstaendniserklaerung-datenverarbeitung.pdf).
+
+### Fördermitglieder
+
+Wenn Sie uns und unsere Angebote finanziell unterstützen möchten, können Sie Fördermitglied werden. Hierzu füllen Sie bitte das Formular [Fördermitgliedschaft](https://coderdojo-schoeneweide.de/docs/foerdermitgliedschaftsantrag.pdf) aus.
+Wir speichern folgende Angaben aus dem Formular: Name, Vorname, Anschrift, E-Mail, Telefon, Bankdaten, falls zutreffen: Firmenname, Rechtsform.
+Ihre Daten speichern und verarbeiten wir mit Google Docs und Google Sheets.
+
+Diese Daten werden für die Dauer der Fördermitgliedschaft gespeichert.
+
+**Zusammenfassung**
+👥 Betroffene: Fördermitglieder
+🤝 Zweck: Fördermitgliederverwaltung
+📓 Verarbeitete Daten: Name, Kontaktdaten, Adresse, Bankdaten, Adresse, Geschäftsdaten (falls zutreffend)
+📅 Speicherdauer: die Daten werden gelöscht, sobald das Ende der Fördermitgliedschaft festgestellt wurde
+⚖️ Rechtsgrundlagen: Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)
 
 ## Rechte laut Datenschutz-Grundverordnung
 
@@ -197,11 +211,11 @@ Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht v
 datenschutzrechtlichen Ansprüche in sonst einer Weise verletzt worden sind, können Sie sich an die folgende
 Datenschutzbehörde wenden:
 
-**Datenschutzbehörde Berlin**  
-**Landesbeauftragte für Datenschutz:** Maja Smoltczyk  
-**Adresse:** Friedrichstraße 219, 10969 Berlin  
-**Telefonnr.:** 030/138 89-0  
-**E-Mail-Adresse:** mailbox@datenschutz-berlin.de  
+**Datenschutzbehörde Berlin**
+**Landesbeauftragte für Datenschutz:** Maja Smoltczyk
+**Adresse:** Friedrichstraße 219, 10969 Berlin
+**Telefonnr.:** 030/138 89-0
+**E-Mail-Adresse:** mailbox@datenschutz-berlin.de
 **Website:** [https://www.datenschutz-berlin.de/](https://www.datenschutz-berlin.de/?tid=312528560)
 
 ## Sicherheit der Datenverarbeitung

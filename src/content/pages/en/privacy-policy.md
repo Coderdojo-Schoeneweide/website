@@ -144,7 +144,7 @@ and contact email address, as well as their membership date, are stored for the 
 ⚖️ Legal Basis: Legitimate Interest (Art. 6 para. 1 lit. f GDPR)
 
 Note: For mentors, special data protection terms apply due to child and youth protection
-[separate privacy terms](https://coderdojo-schoeneweide.github.io/docs/einverstaendniserklaerung-datenverarbeitung.pdf).
+[separate privacy terms](https://coderdojo-schoeneweide.de/docs/einverstaendniserklaerung-datenverarbeitung.pdf).
 
 ## Rights under the General Data Protection Regulation
 

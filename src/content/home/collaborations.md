@@ -2,10 +2,10 @@
 title: Kooperationen
 ---
 
-Sie sind bei einer Schule oder einer anderen Bildungseinrichtung und wollen mit uns kooperieren?
+Du bist bei einer Schule oder einer anderen Bildungseinrichtung und willst mit uns kooperieren?
 
-Schreiben Sie uns eine Mail an [hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de).
+Schreibe uns eine Mail an [hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de).
 
-Sie möchten wissen, was wir genau anbieten?
+Du möchtest wissen, was wir genau anbieten?
 
-Schauen Sie sich unsere [→ Workshop-Konzepte](./workshops/) an!
+Schau dir unsere [→ Workshop-Konzepte](./workshops/) an!

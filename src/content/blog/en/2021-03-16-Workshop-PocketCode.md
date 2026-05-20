@@ -16,7 +16,7 @@ So you program apps with an app! You don't even need to be connected to the inte
 Because of the positive experiences we have had with PocketCode, we want to continue using PocketCode to overcome the hurdle of being able to participate in a dojo,
 to participate in a dojo and thus actively do something for educational equality.
 
-By the way, the detailed instructions for creating a photo filter with PocketCode can be found [on our website](https://coderdojo-schoeneweide.github.io/docs/anleitung-pocketcode-ar.pdf)
+By the way, the detailed instructions for creating a photo filter with PocketCode can be found [on our website](https://coderdojo-schoeneweide.de/docs/anleitung-pocketcode-ar.pdf)
 and can be copied at home.
 
 

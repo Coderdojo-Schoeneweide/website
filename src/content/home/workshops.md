@@ -4,7 +4,7 @@ style: dark
 order: 1
 buttons:
   ticket:
-    label: Ticket kaufen
+    label: Kostenlos Anmelden
     url: https://pretix.eu/dojosw
   more:
     label: Mehr Infos

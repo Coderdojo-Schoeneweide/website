@@ -23,4 +23,4 @@ prevKnowledge = "لا حاجة إلى معرفة سابقة"
 * هاتف ذكي أو جهاز لوحي
 * تثبيت تطبيق "OctoStudio" (متاح في GooglePlay أو AppStore)
 * ورق وأقلام
-* [تعليمات من CoderDojo Schöneweide](https://coderdojo-schoeneweide.github.io/docs/anleitung-octostudio-haustierapp.pdf)
+* [تعليمات من CoderDojo Schöneweide](https://coderdojo-schoeneweide.de/docs/anleitung-octostudio-haustierapp.pdf)

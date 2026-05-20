@@ -21,7 +21,7 @@ Two weeks before our July workshop, the idea came up that it might be possible t
    ![](/images/cms/erster-live-workshop_location.jpg)
 2. *Child and youth protection plan*\
    Child and youth protection is an important aspect of working with students. CoderDojo Deutschland e.V., of which we as CoderDojo Schöneweide are a member, is continuously working on important aspects of child and youth protection for German CoderDojos. There are also corresponding guidelines at a global level, which we follow.
-3. *[Hygiene concept](https://coderdojo-schoeneweide.github.io/docs/hygienekonzept.pdf)*\
+3. *[Hygiene concept](https://coderdojo-schoeneweide.de/docs/hygienekonzept.pdf)*\
    Apart from the fact that hygiene regulations are constantly changing with the changing Covid-19 infection figures, we didn't even have a pattern to guide us until now. That's different now! With the support of our insurance consultant and the website of the Landesjugendring Berlin, a detailed hygiene concept has been created that can be regularly adapted to the currently valid measures.
 4. material
    What we cannot provide online: A PC. At a live meeting, however, we would like to take the opportunity to enable children and young people who do not have their own laptop or smartphone to participate. Since CoderDojo Schöneweide is run entirely on a voluntary basis, the selection at this first live dojo was limited to what the mentors present had to offer. We are still working on a better solution in the long term. On this Thursday, we were also lucky that Bruno was able to bring along a large screen so that the results could be shown to the whole group.
@@ -32,4 +32,4 @@ Two weeks before our July workshop, the idea came up that it might be possible t
    A good mood is the most important cornerstone of success! And what can put you in a better mood than plenty of water and jelly babies? It is important to us that the focus is on having fun.
    ![](/images/cms/erster-live-workshop_snacks.jpg)
 
-So what did this look like in practice? Our first presence dojo was a complete success. You can find a detailed experience report [here](https://coderdojo-schoeneweide.github.io/blog/2021-07-29-juli-workshop/).
+So what did this look like in practice? Our first presence dojo was a complete success. You can find a detailed experience report [here](https://coderdojo-schoeneweide.de/blog/2021-07-29-juli-workshop/).

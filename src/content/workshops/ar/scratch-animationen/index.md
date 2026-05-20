@@ -22,4 +22,4 @@ prevKnowledge = "لا حاجة إلى معرفة سابقة"
 * كمبيوتر أو جهاز لوحي
 * الاتصال بالإنترنت ومتصفح أو تطبيق سكراتش
 * ورق وأقلام
-*[قالب القصة المصورة من CoderDojo Schöneweide](https://coderdojo-schoeneweide.github.io/docs/storyboard-vorlage.jpg)
+*[قالب القصة المصورة من CoderDojo Schöneweide](https://coderdojo-schoeneweide.de/docs/storyboard-vorlage.jpg)

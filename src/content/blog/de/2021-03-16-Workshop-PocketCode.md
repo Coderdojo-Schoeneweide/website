@@ -18,5 +18,5 @@ Man programmiert also Apps mit einer App! Man muss nicht einmal mit dem Internet
 Wegen der guten Erfahrungen, die wir mit PocketCode gemacht haben, wollen wir PocketCode weiterhin einsetzen, um die Hürde, 
 an einem Dojo teilnehmen zu können, zu senken, und so aktiv etwas für Bildungsgerechtigkeit zu tun.
 
-Die detaillierte Anleitung für das Erstellen eines Foto-Filters mit PocketCode ist übrigens [auf unserer Webseite zu finden](https://coderdojo-schoeneweide.github.io/docs/anleitung-pocketcode-ar.pdf) 
+Die detaillierte Anleitung für das Erstellen eines Foto-Filters mit PocketCode ist übrigens [auf unserer Webseite zu finden](https://coderdojo-schoeneweide.de/docs/anleitung-pocketcode-ar.pdf) 
 und kann zu Hause nachgemacht werden.

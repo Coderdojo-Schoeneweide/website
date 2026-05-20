@@ -20,4 +20,4 @@ With the help of our Lip Sync toolkit, the participants were quickly able to enj
 ![](/images/cms/teilnehmende.png "Participants of the workshop")
 
 After we had previously held this workshop online, this was the first time it could take place in person.
-A short description of the workshop can also be found at [Workshops > It Speaks!](https://coderdojo-schoeneweide.github.io/workshops/scratch-lippensynchronisation/)
+A short description of the workshop can also be found at [Workshops > It Speaks!](https://coderdojo-schoeneweide.de/workshops/scratch-lippensynchronisation/)

@@ -3,13 +3,13 @@ title: Become a supporting member
 background: accent
 buttons:
   - label: Membership Application
-    url: "/foerdermitgliedschaftsantrag.pdf"
+    url: "/docs/antrag_foerdermitgliedschaft.pdf"
     style: secondary
   - label: Statutes
-    url: '/satzung.pdf'
+    url: '/docs/satzung.pdf'
     style: outline
   - label: Contribution Order
-    url: /beitragsordnung.pdf
+    url: /docs/beitragsordnung.pdf
     style: outline
 ---
 
