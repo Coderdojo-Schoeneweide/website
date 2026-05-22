@@ -1,18 +1,12 @@
 ---
 title: Support us
 buttons:
+  support_membership:
+    label: Be a supporting member
+    url: './foerdern/'
   donate:
-    label: Support us with a donation
-    url: 'https://paypal.me/dojosw'
-  sustain:
-    label: Become a supporting member
-    url: '/docs/antrag_foerdermitgliedschaft.pdf'
+    label: Donate
+    url: './donate/'
 ---
 
-CoderDojo Schöneweide is a registered non-profit association.
-
-Support the work of CoderDojo Schöneweide e.V. with a donation via [PayPal](https://paypal.me/dojosw) or directly to our association account:\
-IBAN:\
-DE83 4306 0967 1323 6039 00\
-BIC:\
-GENODEM1GLS
+Your supporting membership fee or donation helps fund our equipment, materials, administrative costs, and public relations efforts -– and you can claim the amount as a tax deduction.

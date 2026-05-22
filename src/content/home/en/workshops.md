@@ -9,9 +9,6 @@ buttons:
   more:
     label: More info
     url: ./workshops/
-  all:
-    label: All workshops
-    url: ./workshops/
   newsletter:
     label: Subscribe to newsletter
     url: ./newsletter/

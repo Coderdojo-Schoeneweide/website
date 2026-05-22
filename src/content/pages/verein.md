@@ -5,20 +5,23 @@ buttons:
   - label: Spenden
     url: ../donate/
     style: secondary
-  - label: Mitglied werden
-    url: ../mentoring/
+  - label: Fördermitglied werden
+    url: ../foerdern/
     style: primary
   - label: Satzung
     url: /docs/satzung.pdf
     style: outline
     external: true
+  - label: Beitragsordnung
+    url: /docs/beitragsordnung.pdf
+    style: outline
   - label: Jahresberichte
     url: ../jahresberichte/
     style: outline
 ---
 
-Das CoderDojo Schöneweide ist ein eingetragener, gemeinnütziger Verein.
+CoderDojo Schöneweide wurde 2019 gegründet und ist seit 2021 als gemeinnütziger Verein eingetragen (VR 40118 B).
 
-Wir fördern die digitale Bildung von Kindern und Jugendlichen durch kostenlose Workshops.
+Wir fördern die digitale Bildung von Kindern und Jugendlichen durch kostenlose Workshops und setzen uns für einen gleichberechtigten Zugang zur Informatikausbildung ein.
 
-Du möchtest uns unterstützen? Es gibt viele Möglichkeiten!
+Der Vorstand besteht aus Bruno Schilling, Linda Fernsel und Luis Hankel. Die Kassenprüfer sind Dustin Eikmeier und Yannick Kalff.

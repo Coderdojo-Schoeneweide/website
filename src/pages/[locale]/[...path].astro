@@ -27,6 +27,7 @@ const createRouteMap = (): Record<string, RouteComponent> => {
     reports: pages['../jahresberichte.astro']?.default,
     society: pages['../society.astro']?.default,
     verein: pages['../verein.astro']?.default,
+    'foerdern': pages['../foerdern.astro']?.default,
     workshops: pages['../workshops.astro']?.default,
   };
 
@@ -63,6 +64,7 @@ export async function getStaticPaths() {
     'reports',
     'society',
     'verein',
+    'foerdern',
     'workshops',
   ];
 

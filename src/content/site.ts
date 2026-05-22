@@ -27,20 +27,21 @@ export const siteConfig: SiteConfig = {
         height: "40"
     },
     contact: {
-        email: "schoeneweide.berlin@coderdojo.com",
+        email: "hallo@coderdojo-schoeneweide.de",
         social: [
             {
-                name: "Twitter",
-                url: "https://twitter.com/CoderDojoBerlin"
-            },
-            {
-                name: "GitHub",
-                url: "https://github.com/Coderdojo-Schoeneweide"
-            },
-            {
                 name: "Instagram",
-                url: "https://www.instagram.com/coderdojo_schoeneweide/"
-            }
+                url: "https://www.instagram.com/dojosw/"
+            },
+            {
+                name: "Facebook",
+                url: "https://facebook.com/coderdojoschoeneweide"
+            },
+            {
+                name: "LinkedIn",
+                url: "https://www.linkedin.com/company/coderdojo-schöneweide-e-v"
+            },
+
         ]
     }
 }

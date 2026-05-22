@@ -10,7 +10,7 @@ import {
   faNewspaper,
   faTicket,
 } from '@fortawesome/free-solid-svg-icons';
-import { faPaypal } from '@fortawesome/free-brands-svg-icons';
+import { faUsers, faCreditCardAlt } from '@fortawesome/free-solid-svg-icons';
 import mbot from '@/assets/images/home/workshops/mbot.jpg';
 import blender from '@/assets/images/home/workshops/blender.jpg';
 import scratch from '@/assets/images/home/workshops/scratch.jpg';
@@ -87,20 +87,17 @@ function getSection(id: string) {
     getSection('workshops').map(({ id, title, buttons, Content }) => (
       <HomeSection id={id} title={title} colorScheme="dark">
         <Fragment slot="start">
-          <Button
-            link={buttons.ticket.url}
-            icon={faTicket}
-            variant="brand"
-            stretch
-          >
-            {buttons.ticket.label}
-          </Button>
           <div class="button-group">
+            <Button
+              link={buttons.ticket.url}
+              icon={faTicket}
+              variant="brand"
+              stretch
+            >
+              {buttons.ticket.label}
+            </Button>
             <Button link={buttons.more.url} className="flex-auto" stretch>
               {buttons.more.label}
-            </Button>
-            <Button link={buttons.all.url} className="flex-auto" stretch>
-              {buttons.all.label}
             </Button>
           </div>
           <Content />
@@ -177,12 +174,12 @@ function getSection(id: string) {
     getSection('society').map(({ id, title, buttons, Content }) => (
       <HomeSection id={id} title={title} colorScheme="dark">
         <Fragment slot="start">
-          <Button link={buttons.donate.url} icon={faPaypal} variant="brand">
-            {buttons.donate.label}
-          </Button>
           <div class="button-group">
-            <Button link={buttons.sustain.url} external={true} variant="brand">
-              {buttons.sustain.label}
+            <Button link={buttons.support_membership.url} icon={faUsers} variant="brand">
+              {buttons.support_membership.label}
+            </Button>
+            <Button link={buttons.donate.url} icon={faCreditCardAlt} variant="brand">
+              {buttons.donate.label}
             </Button>
           </div>
           <Content />
