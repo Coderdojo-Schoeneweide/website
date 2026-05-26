@@ -7,6 +7,8 @@
   "type": "module",
   "packageManager": "npm@10",
   "overrides": {
+    "devalue": "^5.8.1",
+    "fast-uri": "^3.1.1",
     "picomatch": "^4.0.4",
     "anymatch": {
       "picomatch": "^2.3.2"
