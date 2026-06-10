@@ -1,22 +1,21 @@
 +++
-title = "MCreato"
-description = "في MCreator، يطوّر الأطفال والشباب إضافاتهم الخاصة لـ Minecraft باستخدام لغة البرمجة المرئية بالمكعبات."
-keywords = ["MCreator", "Minecraft", "التعديلات", "التعديل", "المراهقون", "ورشة عمل تقنية", "تعلم البرمجة", "جافا", "التعليم", "ورشة عمل للمبتدئين"]
-duration = "2 Stunden"
-age = "9 - 17 Jahre"
+title = "MCreator"
+description = "في MCreator يطوّر الأطفال والشباب إضافاتهم الخاصة لـ Minecraft باستخدام لغة البرمجة المرئية بالمكعبات."
+keywords = ["MCreator", "Minecraft", "Mods", "إضافات", "شباب", "ورشة تقنية", "تعلم البرمجة", "Java", "تعليم", "ورشة للمبتدئين"]
+duration = "ساعتان"
+age = "٩ - ١٧ سنة"
 tags = ["minecraft", "mods"]
 image = "mcreator.png"
 weight = 2
 +++
+في هذه الورشة يتعلم الأطفال من عمر ٩ سنوات فصاعداً كيفية إنشاء إضافة صغيرة خاصة بهم لـ Minecraft — دون أي خبرة برمجية سابقة! باستخدام أداة MCreator نستعمل مكعبات الكود البسيطة لإنشاء عناصر جديدة أو مخلوقات أو ميكانيكيات لعب مبتكرة. كل شيء يعمل بشكل مرئي وممتع.
 
-In diesem Workshop lernen Kinder ab 9 Jahren, wie sie ihre eigene kleine Mod für Minecraft erstellen – ganz ohne Programmiererfahrung! Mit dem Tool MCreator nutzen wir einfache Code-Blöcke, um neue Gegenstände, Kreaturen oder Spielmechaniken zu erschaffen. Das Ganze funktioniert visuell und spielerisch.
+أهداف التعلم:
+* يستطيع المشاركون التعامل مع MCreator
+* يستطيع المشاركون إضافة عناصر جديدة للعبة
+* يستطيع المشاركون تجربة الإضافات واللعب بها
 
-Lernziele:
-* Die Teilnehmenden können MCreator bedienen
-* Die Teilnehmenden können Modelemente hinzufügen
-* Die Teilnehmenden können die Mods ausprobieren und Spielen
-
-Teilnehmende benötigen:
-* Laptop/PC
-* Installierte App "MCreator"
-* [Anleitung des CoderDojo Schöneweide](https://coderdojo-schoeneweide.de/docs/anleitung-mcreator.pdf)
+ما يحتاجه المشاركون:
+* لابتوب أو حاسوب مكتبي
+* تطبيق "MCreator" مثبّت مسبقاً
+* [دليل CoderDojo Schöneweide](https://coderdojo-schoeneweide.de/docs/anleitung-mcreator.pdf)
