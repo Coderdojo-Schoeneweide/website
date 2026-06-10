@@ -1,7 +1,7 @@
 +++
-title = "MCreator"
-description = "In MCreator entwickeln Kinder und Jugendliche ihre eigenen Minecraft Modifikationen in Block-Programmiersprache."
-keywords = ["MCreator", "Minecraft", "Mods", "Modifikation", "Jugendliche", "Technikworkshop", "Programmieren lernen", "Java", "Bildung", "Einsteiger-Workshop"]
+title = "MCreato"
+description = "في MCreator، يطوّر الأطفال والشباب إضافاتهم الخاصة لـ Minecraft باستخدام لغة البرمجة المرئية بالمكعبات."
+keywords = ["MCreator", "Minecraft", "التعديلات", "التعديل", "المراهقون", "ورشة عمل تقنية", "تعلم البرمجة", "جافا", "التعليم", "ورشة عمل للمبتدئين"]
 duration = "2 Stunden"
 age = "9 - 17 Jahre"
 tags = ["minecraft", "mods"]
