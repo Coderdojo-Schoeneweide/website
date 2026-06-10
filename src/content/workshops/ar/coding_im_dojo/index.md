@@ -14,12 +14,14 @@ weight = 1
 وإذا لم تكن تعرف بعد ماذا تريد أن تنشئ، فلدينا أيضًا أفكار تلهمك ونريك أشياء رائعة يمكنك تنفيذها :)
 
 ## يحتاج المشاركون إلى
-* حاسوب محمول أو جهاز لوحي أو هاتف (أو حجز تذكرة جهاز كمبيوتر)
+
+- حاسوب محمول أو جهاز لوحي أو هاتف (أو حجز تذكرة جهاز كمبيوتر)
 
 ## أدلة
-* [Scratch Pattern I](https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20-%20Pattern%20I.pdf)
-* [Scratch Pattern II](https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20-%20Pattern%20II.pdf)
-* [Scratch Pattern III](https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20Pattern%20III.pdf)
-* [HTML & CSS](https://coderdojo-schoeneweide.de/docs/howtos/HTML%20%26%20CSS%20Cheat%20Sheet%20extended.pdf)
-* [OpenProcessing](https://coderdojo-schoeneweide.de/docs/howtos/OpenProcessing%20Cheat%20Sheet.pdf)
-* [Processing](https://coderdojo-schoeneweide.de/docs/howtos/Processing%20Cheat%20Sheet.pdf)
+
+- [Scratch Pattern I](/docs/howtos/Scratch%20-%20Pattern%20I.pdf)
+- [Scratch Pattern II](/docs/howtos/Scratch%20-%20Pattern%20II.pdf)
+- [Scratch Pattern III](/docs/howtos/Scratch%20Pattern%20III.pdf)
+- [HTML & CSS](/docs/howtos/HTML%20%26%20CSS%20Cheat%20Sheet%20extended.pdf)
+- [OpenProcessing](/docs/howtos/OpenProcessing%20Cheat%20Sheet.pdf)
+- [Processing](/docs/howtos/Processing%20Cheat%20Sheet.pdf)

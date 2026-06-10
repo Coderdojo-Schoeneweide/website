@@ -14,12 +14,14 @@ At Coding in the Dojo, you can bring your own programming projects and work on t
 If you are not sure what to build yet, we also have ideas to inspire you and show cool things you can create :)
 
 ## Participants need
-* Laptop, tablet, or phone (or reserve a computer ticket)
+
+- Laptop, tablet, or phone (or reserve a computer ticket)
 
 ## Guides
-* [Scratch Pattern I](https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20-%20Pattern%20I.pdf)
-* [Scratch Pattern II](https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20-%20Pattern%20II.pdf)
-* [Scratch Pattern III](https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20Pattern%20III.pdf)
-* [HTML & CSS](https://coderdojo-schoeneweide.de/docs/howtos/HTML%20%26%20CSS%20Cheat%20Sheet%20extended.pdf)
-* [OpenProcessing](https://coderdojo-schoeneweide.de/docs/howtos/OpenProcessing%20Cheat%20Sheet.pdf)
-* [Processing](https://coderdojo-schoeneweide.de/docs/howtos/Processing%20Cheat%20Sheet.pdf)
+
+- [Scratch Pattern I](/docs/howtos/Scratch%20-%20Pattern%20I.pdf)
+- [Scratch Pattern II](/docs/howtos/Scratch%20-%20Pattern%20II.pdf)
+- [Scratch Pattern III](/docs/howtos/Scratch%20Pattern%20III.pdf)
+- [HTML & CSS](/docs/howtos/HTML%20%26%20CSS%20Cheat%20Sheet%20extended.pdf)
+- [OpenProcessing](/docs/howtos/OpenProcessing%20Cheat%20Sheet.pdf)
+- [Processing](/docs/howtos/Processing%20Cheat%20Sheet.pdf)
