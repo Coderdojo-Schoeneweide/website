@@ -7,13 +7,17 @@ buttons:
     style: primary
 ---
 
-Du möchtest ehrenamtlich bei uns mitmachen?
+Du hast Lust, dein Wissen an junge Coder:innen weiterzugeben?
 
-Sehr cool! Schreib uns eine Mail an [engagieren@coderdojo-schoeneweide.de](mailto:engagieren@coderdojo-schoeneweide.de)
+Werde ehrenamtliche:r Mentor:in beim CoderDojo Schöneweide! 
 
-## Was dich erwartet
+* Jeden 2. Samstag oder flexibel nach deiner Verfügbarkeit
+* Immer im Team mit anderen Mentor:innen
 
-- Wissen weitergeben / Gemeinschaft gestalten
-- Team mit Freude und Engagement
-- Eigene Ideen zum Thema Bildung einbringen
-- Neue Freundschaften und Netzwerke
+Neugierig? Schreib uns einfach an [engagieren@coderdojo-schoeneweide.de](mailto:engagieren@coderdojo-schoeneweide.de)
+
+## Voraussetzungen
+* Keine Vorkenntnisse notwendig - nur die Bereitschaft zu lernen.
+* Onboardings (Grundlagenschulung zu Mentoring und Kinder- und Jugendschutz) finden nach Absprache Mittwochs 17:30 - 19:00 statt. Eine Teilnahme ist verpflichtend.
+* Damit du dich bei uns als Mentor:in engagieren kannst, müssen wir Einsicht in dein erweitertes, polizeiliches Führungszeugnis nehmen. Das ist kostenlos. Wir unterstützen dich beim Beantragen!
+* Alle unsere Mentor:inne verpflichten sich unserem [Verhaltenskodex](/docs/code-of-conduct.pdf).
