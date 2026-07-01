@@ -20,5 +20,10 @@ const { Content } = await render(page);
     <Hero hero={page.data}>
       <Content />
     </Hero>
+    <video class="mx-auto" controls preload="metadata" poster="/cover.png">
+      <source src="/coderdojo-hevc.mp4" type="video/mp4; codecs=hvc1" />
+      <source src="/coderdojo-av1.mp4" type="video/mp4; codecs=av01.0.09M.08" />
+      <source src="/coderdojo-h264.mp4" type="video/mp4; codecs=avc1" />
+    </video>
   </div>
 </Layout>
