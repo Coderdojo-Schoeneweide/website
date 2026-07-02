@@ -19,7 +19,7 @@ export interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
     title: "CoderDojo Schöneweide",
-    description: "Inspirierende IT-Workshops für Kinder und Jugendliche. Kostenlose Workshops im Bereich Informatik/Technik jeden zweiten Samstag von 11-13 Uhr.",
+    description: "Kreative IT-Workshops für Kinder und Jugendliche. Kostenlose Workshops im Bereich Informatik, Technik und Design; jeden zweiten Samstag von 11-13 Uhr.",
     logo: {
         image: "/images/logoP.png",
         text: "CoderDojo Schöneweide",

@@ -14,12 +14,12 @@ buttons:
     url: ./newsletter/
 ---
 
-Kostenlose Workshops im Bereich Informatik/Technik
+Kostenlose Workshops für kreative Informatik und Technik.
 
 Wann: Jeden zweiten Samstag von 11 bis 13 Uhr \
 Wo: In der Mittelpunktbibliothek "Alte Feuerwache"
 
-Für Kinder und Jugendliche zwischen 7 und 17 Jahren
+Für Kinder und Jugendliche zwischen 7 und 17 Jahren.
 
 Kein Vorwissen nötig!
 
