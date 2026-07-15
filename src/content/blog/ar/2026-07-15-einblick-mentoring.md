@@ -3,7 +3,7 @@ title: نظرة على مهام المرشدة
 date: 2026-07-15T17:00:00.000Z
 categories:
   - berichte
-tags: [robotik, mbot, einstieg]
+tags: [led, elektronik, einstieg]
 authors:
   - Marie
 draft: false
