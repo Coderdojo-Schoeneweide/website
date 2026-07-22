@@ -1,0 +1,41 @@
+---
+import { icon } from '@fortawesome/fontawesome-svg-core';
+import { faXmark } from '@fortawesome/free-solid-svg-icons';
+import { useTranslations } from '@/i18n';
+const { t } = useTranslations(Astro.currentLocale);
+---
+
+<div
+  id="newsletter-confirmation"
+  class="bg-success text-dark absolute top-32 left-1/2 z-10 flex -translate-1/2 items-center gap-2 rounded-md px-5 py-4"
+  hidden
+>
+  <p class="m-0">{t('newsletter-confirmation')}</p>
+  <button class="plain text-xs" aria-label="close">
+    <Fragment set:html={icon(faXmark).html} />
+  </button>
+</div>
+
+<script>
+  function check() {
+    const newsletter = 'newsletter';
+    const query = new URLSearchParams(window.location.search);
+    if (query.get(newsletter) !== 'success') return;
+
+    const notification = document.querySelector(
+      '#newsletter-confirmation',
+    ) as HTMLElement;
+    if (!notification) return;
+    notification.hidden = false;
+
+    notification
+      .querySelector('button')
+      ?.addEventListener('click', () => (notification.hidden = true));
+
+    query.delete(newsletter);
+    const url = new URL(window.location.href);
+    url.search = query.toString();
+    window.history.replaceState(null, '', url);
+  }
+  check();
+</script>

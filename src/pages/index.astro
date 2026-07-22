@@ -5,6 +5,7 @@ import heroBackground from '@/assets/images/home/hero-background.jpg';
 import titleBackground from '@/assets/images/home/title-background.svg?raw';
 import Button from '@/components/Button.astro';
 import Carousel from '@/components/Carousel.astro';
+import NewsletterConfirmation from '@/components/NewsletterConfirmation.astro';
 import {
   faEnvelope,
   faNewspaper,
@@ -51,6 +52,7 @@ function getSection(id: string) {
 ---
 
 <Layout>
+  <NewsletterConfirmation />
   <section class="hero relative overflow-hidden">
     <Picture
       src={heroBackground}
@@ -175,10 +177,18 @@ function getSection(id: string) {
       <HomeSection id={id} title={title} colorScheme="dark">
         <Fragment slot="start">
           <div class="button-group">
-            <Button link={buttons.support_membership.url} icon={faUsers} variant="brand">
+            <Button
+              link={buttons.support_membership.url}
+              icon={faUsers}
+              variant="brand"
+            >
               {buttons.support_membership.label}
             </Button>
-            <Button link={buttons.donate.url} icon={faCreditCardAlt} variant="brand">
+            <Button
+              link={buttons.donate.url}
+              icon={faCreditCardAlt}
+              variant="brand"
+            >
               {buttons.donate.label}
             </Button>
           </div>

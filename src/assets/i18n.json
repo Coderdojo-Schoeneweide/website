@@ -49,7 +49,8 @@
         "description": "Entdecke unsere vielfältigen IT-Workshops für Kinder und Jugendliche. Von Programmierung über 3D-Design bis hin zu Künstlicher Intelligenz - hier ist für jeden etwas dabei!"
       },
       "prevKnowledge": "Nicht angegeben"
-    }
+    },
+    "newsletter-confirmation": "Deine Anmeldung zum Newsletter wurde bestätigt. Vielen Dank!"
   },
   "en": {
     "title": "CoderDojo Schöneweide",
@@ -101,7 +102,8 @@
         "description": "Discover our diverse IT workshops for children and youth. From programming to 3D design to artificial intelligence - there's something for everyone!"
       },
       "prevKnowledge": "Not specified"
-    }
+    },
+    "newsletter-confirmation": "Your registration for our newsletter was confirmed. Thank you!"
   },
   "ar": {
     "title": "CoderDojo Schöneweide",
@@ -147,6 +149,7 @@
         "description": "اكتشف ورشنا المتنوعة حول تكنولوجيا المعلومات للأطفال والشباب. من البرمجة إلى التصميم ثلاثي الأبعاد إلى الذكاء الاصطناعي - هناك شيء للجميع!"
       },
       "prevKnowledge": "غير محدد"
-    }
+    },
+    "newsletter-confirmation": "تم تأكيد اشتراكك في النشرة الإخبارية. شكرًا لك!"
   }
 }
