@@ -1,7 +1,8 @@
 ---
 title: "Networked Stories - From Me to You"
 description: "A report on my experience leading my first workshop at CoderDojo Schöneweide."
-keywords: CoderJojo
+keywords:
+- CoderJojo
 date: 2026-01-24
 categories: [workshop, blog]
 tags: 
@@ -9,7 +10,8 @@ tags:
 - CoderDojo
 - Netzwerke
 - Linux
-authors: Ugur Fidan
+authors:
+- Ugur Fidan
 ---
 
 # Networked Stories - From Me to You

@@ -1,16 +1,17 @@
 ---
 title: "قصص شبكية - مني إليك"
 description: "تقرير عن تجربتي في قيادة أول ورشة عمل لي في كودر دوجو شونفايضه."
-keywords: CoderJojo
+keywords:
+- CoderJojo
 date: 2026-01-24
 categories: [workshop, blog]
 tags:
-
-* Workshop
-* CoderDojo
-* Netzwerke
-* Linux
-authors: Ugur Fidan
+- Workshop
+- CoderDojo
+- Netzwerke
+- Linux
+authors:
+- Ugur Fidan
 ---
 
 # قصص شبكية - مني إليك
