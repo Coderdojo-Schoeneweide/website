@@ -3,7 +3,7 @@ title: "Vernetzte Geschichten – von Mir zu Dir"
 description: "Ein Erfahrungsbericht über meinen ersten eigenen Workshop beim CoderDojo Schöneweide."
 keywords:
 - CoderJojo
-date: 2026-01-24
+date: 2026-08-20
 categories: [workshop, blog]
 tags: 
 - Workshop
@@ -20,6 +20,8 @@ Am 24.01.2026 hatte ich die Gelegenheit, einen Workshop als Mentor für das Code
 Schöneweide zu leiten. Zuvor konnte ich bereits bei einem Workshop unterstützend
 mitwirken, jedoch war dies der erste, den ich gestalten und umsetzen durfte.
 Diese Erfahrungen möchte ich mit euch teilen.
+
+![Vernetzte Computer](/images/cms/2026-01-vernetzte-geschichten.jpg "Vernetzte Computer")
 
 Mit der Möglichkeit einen Workshop zu gestalten, war es mein Ziel, den Teilnehmenden
 Wissen und Kenntnisse zu übermitteln (oder zumindest dafür zu sorgen, dass die
