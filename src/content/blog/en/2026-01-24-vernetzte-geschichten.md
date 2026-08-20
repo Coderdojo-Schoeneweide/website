@@ -3,7 +3,7 @@ title: "Networked Stories - From Me to You"
 description: "A report on my experience leading my first workshop at CoderDojo Schöneweide."
 keywords:
 - CoderJojo
-date: 2026-01-24
+date: 2026-08-20
 categories: [workshop, blog]
 tags: 
 - Workshop
@@ -19,6 +19,8 @@ authors:
 On January 24, 2026, I had the opportunity to lead a workshop as a mentor for CoderDojo Schöneweide.
 While I had previously assisted with a workshop, this was the first one I designed and implemented myself.
 I would like to share these experiences with you.
+
+![Connected Computers](/images/cms/2026-01-vernetzte-geschichten.jpg "Connected Computers")
 
 With the opportunity to design a workshop, my goal was to pass on knowledge to the participants
 (or at least ensure that their curiosity keeps growing).
