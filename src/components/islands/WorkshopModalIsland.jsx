@@ -8,11 +8,9 @@ export default function WorkshopModalIsland({ workshops }) {
   const [photo, setPhoto] = useState('');
 
   // Systematic markdown parser for workshop content
-  const parseMarkdownContent = (content) => {
-    let html = content;
-
+  const parseMarkdownContent = (workshop) => {
     // 1. Parse Hugo shortcodes - {{< figure >}}
-    html = html.replace(
+    let html = workshop.content.replace(
       /\{\{<\s*figure\s+([^>]+)\s*>}}/g,
       (match, attributes) => {
         const attrs = {};
@@ -154,7 +152,7 @@ export default function WorkshopModalIsland({ workshops }) {
     const content = workshop.content || workshop.body || '';
 
     // Parse the markdown content systematically
-    const parsedHtml = parseMarkdownContent(content);
+    const parsedHtml = parseMarkdownContent(workshop);
 
     // Wrap the content in a container with proper styling
     const formattedContent = `<div class="workshop-content prose dark:prose-invert max-w-none">${parsedHtml}</div>`;
