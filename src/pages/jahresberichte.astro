@@ -32,7 +32,7 @@ const { translatePath } = useTranslations(Astro.currentLocale);
         <div class="container mx-auto px-6">
             <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                 {reports.map((report: (typeof reports)[number]) => (
-                    <div class="group bg-gray-50 dark:bg-slate-800 rounded-xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+                    <div class="flex flex-col items-start group bg-gray-50 dark:bg-slate-800 rounded-xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
                         <!-- Report Icon -->
                         <div class="flex items-center justify-center w-16 h-16 bg-primary-100 dark:bg-primary-900/30 rounded-lg mb-4 group-hover:bg-primary-200 dark:group-hover:bg-primary-800/50 transition-colors">
                             <svg class="w-8 h-8 text-primary-600 dark:text-primary-400 fill-current" viewBox="0 0 20 20">
@@ -41,9 +41,9 @@ const { translatePath } = useTranslations(Astro.currentLocale);
                         </div>
 
                         <!-- Year Badge -->
-                        <div class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/30 dark:text-primary-300 mb-3">
+                        <span class="px-3 py-1 rounded-full text-sm font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/30 dark:text-primary-300 mb-3">
                             {report.year}
-                        </div>
+                        </span>
 
                         <!-- Title -->
                         <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
@@ -51,11 +51,9 @@ const { translatePath } = useTranslations(Astro.currentLocale);
                         </h3>
 
                         <!-- Description -->
-                        {report.description && (
-                            <p class="text-gray-600 dark:text-gray-300 text-sm mb-4 line-clamp-3">
-                                {report.description}
-                            </p>
-                        )}
+                        <p class="flex-1 text-gray-600 dark:text-gray-300 text-sm mb-4">
+                            {report.description}
+                        </p>
 
                         <!-- Download Button -->
                         <a
@@ -76,10 +74,10 @@ const { translatePath } = useTranslations(Astro.currentLocale);
             <div class="mt-16 text-center">
                 <div class="bg-primary-50 dark:bg-primary-900/20 rounded-xl p-8 max-w-4xl mx-auto">
                     <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">
-                        Haben Sie Fragen zu unseren Berichten?
+                        Hast Du Fragen zu unseren Berichten?
                     </h3>
                     <p class="text-gray-600 dark:text-gray-300 mb-6">
-                        Für weitere Informationen oder Fragen zu unseren Jahresberichten können Sie sich gerne an uns wenden.
+                        Für weitere Informationen oder Fragen zu unseren Jahresberichten kannst Du Dich gerne an uns wenden.
                     </p>
                     <div class="flex flex-wrap gap-4 justify-center">
                         <a
