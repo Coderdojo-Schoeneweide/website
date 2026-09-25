@@ -1,8 +1,6 @@
 ---
 title: "Vernetzte Geschichten – von Mir zu Dir"
 description: "Ein Erfahrungsbericht über meinen ersten eigenen Workshop beim CoderDojo Schöneweide."
-keywords:
-- CoderJojo
 date: 2026-08-20
 categories: [workshop, blog]
 tags: 
