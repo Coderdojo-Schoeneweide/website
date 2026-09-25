@@ -1,8 +1,6 @@
 ---
 title: "قصص شبكية - مني إليك"
 description: "تقرير عن تجربتي في قيادة أول ورشة عمل لي في كودر دوجو شونفايضه."
-keywords:
-- CoderJojo
 date: 2026-08-20
 categories: [workshop, blog]
 tags:

@@ -1,8 +1,6 @@
 ---
 title: "Networked Stories - From Me to You"
 description: "A report on my experience leading my first workshop at CoderDojo Schöneweide."
-keywords:
-- CoderJojo
 date: 2026-08-20
 categories: [workshop, blog]
 tags: 
