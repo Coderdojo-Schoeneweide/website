@@ -58,6 +58,21 @@ If you’re not already added to the project, ask the team to invite you.
 
 Let’s keep the code clean, accessible, and easy to maintain!
 
+### How to develop locally
+
+If you want to be able to view a local preview of the website you need to install the required dependencies:
+
+```bash
+npm ci
+```
+
+- Clone this repository: git clone <https://github.com/Coderdojo-Schoeneweide/website.git>
+- Create a new git branch for developing your feature: git checkout -b <branch_name> (exceptions only for hotfixes!)
+- Run `npm run dev` from within the root directory to run a local server serving the website. Astro supports live-reloading, so you don't need to restart the server each time you change something.
+- Implement and commit your changes: `git commit -a -m "<put commit message here>"`
+- Push to the GitHub repository: `git push -u origin <branch_name>` (or simply `git push` if you've pushed to the branch before)
+- Open a pull request for your changes to be merged into master and go live!
+
 ---
 
 ## 📫 Contact
