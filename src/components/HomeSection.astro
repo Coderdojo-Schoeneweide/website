@@ -12,19 +12,29 @@ interface Props {
    * The color scheme to use for text and background.
    */
   colorScheme: 'light' | 'dark';
+  /**
+   * Render the section content across the full available width.
+   */
+  fullWidth?: boolean;
 }
 
-const { id, title, colorScheme } = Astro.props;
+const { id, title, colorScheme, fullWidth = false } = Astro.props;
 ---
 
 <section class=`section-${colorScheme} px-content py-8` id={id}>
   <h2>{title}</h2>
-  <div class="flex flex-col gap-10 sm:flex-row">
-    <div class="sm:w-1/2">
-      <slot name="start" />
-    </div>
-    <div class="sm:w-1/2">
-      <slot name="end" />
-    </div>
-  </div>
+  {
+    fullWidth ?
+      <div>
+        <slot name="start" />
+      </div>
+    : <div class="flex flex-col gap-10 sm:flex-row">
+        <div class="sm:w-1/2">
+          <slot name="start" />
+        </div>
+        <div class="sm:w-1/2">
+          <slot name="end" />
+        </div>
+      </div>
+  }
 </section>

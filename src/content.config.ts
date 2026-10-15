@@ -17,6 +17,7 @@ const home = defineCollection({
     title: z.string(),
     order: z.number().optional(),
     style: z.enum(['light', 'dark']).optional(),
+    workshops: z.array(z.string()).optional(),
     buttons: z.record(z.string(), buttonSchema).optional(),
   }),
 });
