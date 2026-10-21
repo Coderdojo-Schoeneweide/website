@@ -1,0 +1,19 @@
+---
+// Accessibility Page - Content-driven from Markdown
+import SimplePage from '../layouts/SimplePage.astro';
+import { getCollection, render } from 'astro:content';
+import { findLocalizedEntryById } from '@/utils/contentLocalization.ts';
+
+const pages = await getCollection('pages');
+const page = findLocalizedEntryById(pages, 'kinderschutz', Astro.currentLocale);
+
+if (!page) {
+  throw new Error('Missing page content: kinderschutz');
+}
+
+const { Content } = await render(page);
+---
+
+<SimplePage title={page.data.title}>
+  <Content />
+</SimplePage>

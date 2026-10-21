@@ -13,7 +13,8 @@
         "imprint": "Impressum",
         "privacy-policy": "Datenschutzerklärung",
         "accessibility": "Barrierefreiheit",
-        "collaborations": "Kooperationen"
+        "collaborations": "Kooperationen",
+        "child-protection": "Kinderschutz"
       }
     },
     "locales": {
@@ -66,7 +67,8 @@
         "imprint": "Imprint",
         "privacy-policy": "Privacy Policy",
         "accessibility": "Accessibility",
-        "collaborations": "Collaborations"
+        "collaborations": "Collaborations",
+        "child-protection": "Child Protection"
       }
     },
     "locales": {
@@ -119,7 +121,8 @@
         "imprint": "بيانات النشر",
         "privacy-policy": "سياسة الخصوصية",
         "accessibility": "إمكانية الوصول",
-        "collaborations": "التعاونات"
+        "collaborations": "التعاونات",
+        "child-protection": "حماية الأطفال"
       }
     },
     "locales": {

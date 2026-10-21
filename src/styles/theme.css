@@ -1,99 +1,101 @@
 @theme {
-    --color-primary-50: #fff4ed;
-    --color-primary-100: #ffe6d1;
-    --color-primary-200: #ffcc9f;
-    --color-primary-300: #ffb370;
-    --color-primary-400: #ffa764;
-    --color-primary-500: #ffa764;
-    --color-primary-600: #e6956a;
-    --color-primary-700: #cc8560;
-    --color-primary-800: #b37556;
-    --color-primary-900: #99654c;
+  --color-primary-50: #fff4ed;
+  --color-primary-100: #ffe6d1;
+  --color-primary-200: #ffcc9f;
+  --color-primary-300: #ffb370;
+  --color-primary-400: #ffa764;
+  --color-primary-500: #ffa764;
+  --color-primary-600: #e6956a;
+  --color-primary-700: #cc8560;
+  --color-primary-800: #b37556;
+  --color-primary-900: #99654c;
 
-    --color-secondary-50: #f7faf9;
-    --color-secondary-100: #e8f2f0;
-    --color-secondary-200: #d1e5e1;
-    --color-secondary-300: #bad8d2;
-    --color-secondary-400: #a3cbc3;
-    --color-secondary-500: #99c3bb;
-    --color-secondary-600: #8ab0a9;
-    --color-secondary-700: #cc6b2c;
-    --color-secondary-800: #b8541f;
-    --color-secondary-900: #a43f12;
+  --color-secondary-50: #f7faf9;
+  --color-secondary-100: #e8f2f0;
+  --color-secondary-200: #d1e5e1;
+  --color-secondary-300: #bad8d2;
+  --color-secondary-400: #a3cbc3;
+  --color-secondary-500: #99c3bb;
+  --color-secondary-600: #8ab0a9;
+  --color-secondary-700: #cc6b2c;
+  --color-secondary-800: #b8541f;
+  --color-secondary-900: #a43f12;
 
-    --color-orange-50: #fff7ed;
-    --color-orange-100: #ffedd5;
-    --color-orange-200: #fed7aa;
-    --color-orange-300: #fdba74;
-    --color-orange-400: #fb923c;
-    --color-orange-500: #f97316;
-    --color-orange-600: #ea580c;
-    --color-orange-700: #cc6b2c;
-    --color-orange-800: #b8541f;
-    --color-orange-900: #a43f12;
+  --color-orange-50: #fff7ed;
+  --color-orange-100: #ffedd5;
+  --color-orange-200: #fed7aa;
+  --color-orange-300: #fdba74;
+  --color-orange-400: #fb923c;
+  --color-orange-500: #f97316;
+  --color-orange-600: #ea580c;
+  --color-orange-700: #cc6b2c;
+  --color-orange-800: #b8541f;
+  --color-orange-900: #a43f12;
 
-    --color-accent-50: #f8f7f8;
-    --color-accent-100: #e9e7ea;
-    --color-accent-200: #d3cfd5;
-    --color-accent-300: #bdb7c0;
-    --color-accent-400: #a79fab;
-    --color-accent-500: #918796;
-    --color-accent-600: #7b6f81;
-    --color-accent-700: #65576c;
-    --color-accent-800: #4f3f57;
-    --color-accent-900: #453e55;
+  --color-accent-50: #f8f7f8;
+  --color-accent-100: #e9e7ea;
+  --color-accent-200: #d3cfd5;
+  --color-accent-300: #bdb7c0;
+  --color-accent-400: #a79fab;
+  --color-accent-500: #918796;
+  --color-accent-600: #7b6f81;
+  --color-accent-700: #65576c;
+  --color-accent-800: #4f3f57;
+  --color-accent-900: #453e55;
 
-    --color-white: #ffffff;
-    --color-black: #000000;
+  --color-white: #ffffff;
+  --color-black: #000000;
 
-    --color-gray-50: #fafafa;
-    --color-gray-100: #f4f4f5;
-    --color-gray-200: #e4e4e7;
-    --color-gray-300: #d4d4d8;
-    --color-gray-400: #a1a1aa;
-    --color-gray-500: #71717a;
-    --color-gray-600: #52525b;
-    --color-gray-700: #3f3f46;
-    --color-gray-800: #27272a;
-    --color-gray-900: #18181b;
+  --color-gray-50: #fafafa;
+  --color-gray-100: #f4f4f5;
+  --color-gray-200: #e4e4e7;
+  --color-gray-300: #d4d4d8;
+  --color-gray-400: #a1a1aa;
+  --color-gray-500: #71717a;
+  --color-gray-600: #52525b;
+  --color-gray-700: #3f3f46;
+  --color-gray-800: #27272a;
+  --color-gray-900: #18181b;
 
-    --color-background-light: #ffffff;
-    --color-background-dark: #18181b;
+  --color-background-light: #ffffff;
+  --color-background-dark: #18181b;
 
-    --color-surface-light: #f4f4f5;
-    --color-surface-dark: #27272a;
+  --color-surface-light: #f4f4f5;
+  --color-surface-dark: #27272a;
 
-    --color-text-primary-light: #453e55;
-    --color-text-primary-dark: #f4f4f5;
+  --color-text-primary-light: #453e55;
+  --color-text-primary-dark: #f4f4f5;
 
-    --color-text-secondary-light: #71717a;
-    --color-text-secondary-dark: #a1a1aa;
+  --color-text-secondary-light: #71717a;
+  --color-text-secondary-dark: #a1a1aa;
 
-    --color-slate-50: #fafafa;
-    --color-slate-100: #f4f4f5;
-    --color-slate-200: #e4e4e7;
-    --color-slate-300: #d4d4d8;
-    --color-slate-400: #a1a1aa;
-    --color-slate-500: #71717a;
-    --color-slate-600: #52525b;
-    --color-slate-700: #3f3f46;
-    --color-slate-800: #27272a;
-    --color-slate-900: #18181b;
+  --color-slate-50: #fafafa;
+  --color-slate-100: #f4f4f5;
+  --color-slate-200: #e4e4e7;
+  --color-slate-300: #d4d4d8;
+  --color-slate-400: #a1a1aa;
+  --color-slate-500: #71717a;
+  --color-slate-600: #52525b;
+  --color-slate-700: #3f3f46;
+  --color-slate-800: #27272a;
+  --color-slate-900: #18181b;
 
-    /*
+  /*
      * --- New theme variables ---
      *
      * Remove everything above this comment once the theme migration is complete
      */
-    --color-brand: #F8AA48;
-    --color-accent-light: #A3C4BC;
-    --color-accent-dark: #2E2946;
-    --color-success: #BFD7B5;
-    --color-danger: #D64550;
-    --color-dark: #2E2E2E;
-    --color-light: #FFFFFF;
+  --color-brand: #f8aa48;
+  --color-accent-light: #a3c4bc;
+  --color-accent-dark: #2e2946;
+  --color-success: #bfd7b5;
+  --color-danger: #d64550;
+  --color-dark: #2e2e2e;
+  --color-light: #ffffff;
 
-    --font-sans: "Open Sans Variable", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-sans:
+    'Open Sans Variable', ui-sans-serif, system-ui, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
-    --spacing-content: max(2.5rem, (100dvi - 90ch) / 2);
+  --spacing-content: max(2rem, (100dvi - 90ch) / 2);
 }
