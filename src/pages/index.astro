@@ -19,15 +19,9 @@ import team from '@/assets/images/home/team.jpg';
 import { useTranslations, configuration } from '@/i18n.ts';
 import { getCollection, render } from 'astro:content';
 import HomeSection from '@/components/HomeSection.astro';
-import CollaborationOffersIsland from '@/components/islands/CollaborationOffersIsland.jsx';
 import teilnehmende from '/public/images/cms/teilnehmende.png';
-import {
-  findLocalizedEntryById,
-  getBaseContentId,
-} from '@/utils/contentLocalization.ts';
 
 const { t, translatePath } = useTranslations(Astro.currentLocale);
-const allWorkshops = await getCollection('workshops');
 
 const sections = new Map();
 for (const section of await getCollection('home')) {
@@ -41,30 +35,9 @@ for (const section of await getCollection('home')) {
     id: id,
     title: section.data.title,
     buttons: section.data.buttons,
-    workshops: section.data.workshops,
     Content: (await render(section)).Content,
   };
   sections.set(language, locale);
-}
-
-function getWorkshopOffers(slugs: string[] = []) {
-  return slugs
-    .map((slug) =>
-      findLocalizedEntryById(allWorkshops, slug, Astro.currentLocale),
-    )
-    .flatMap((workshop) => {
-      if (!workshop?.data.image) {
-        return [];
-      }
-
-      return [
-        {
-          title: workshop.data.title,
-          image: `/workshops/${getBaseContentId(workshop.id)}/${workshop.data.image}`,
-          content: workshop.body,
-        },
-      ];
-    });
 }
 
 function getSection(id: string) {
@@ -233,16 +206,13 @@ function getSection(id: string) {
   }
 
   {
-    getSection('collaborations').map(({ id, title, workshops, Content }) => (
-      <HomeSection id={id} title={title} colorScheme="light" fullWidth>
+    getSection('collaborations').map(({ id, title, Content }) => (
+      <HomeSection id={id} title={title} colorScheme="light">
         <Fragment slot="start">
           <Content />
-          {workshops && (
-            <CollaborationOffersIsland
-              offers={getWorkshopOffers(workshops)}
-              client:load
-            />
-          )}
+          <Button link={translatePath('/collaborations')}>
+            {t('common.learn-more')}
+          </Button>
         </Fragment>
       </HomeSection>
     ))

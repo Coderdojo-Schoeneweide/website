@@ -1,6 +1,11 @@
 ---
 title: التعاونات
 background: light
+workshops:
+  - coding_im_dojo
+  - dashbot-challenges
+  - mBot-labyrinth
+  - gemeinsame-geschichte
 partners:
   title: شركاؤنا
   logos:
@@ -22,8 +27,10 @@ partners:
       name: Partner 8
 ---
 
-هل تمثلون مدرسة أو مؤسسة تعليمية أخرى وترغبون في التعاون معنا؟
+هل تمثلون مدرسة أو مؤسسة تعليمية أخرى وترغبون في تقديم ورشة عمل معنا؟
+نخطط للبرنامج معًا. تقدم [مفاهيم الورش](./workshops/) نظرة أولية على
+الموضوعات الممكنة، كما يمكننا تطوير أفكاركم الخاصة معًا.
 
-راسلونا على [hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de) أو املؤوا [نموذج التواصل](../newsletter/).
-
-هل ترغبون بمعرفة ما الذي نقدمه بالتحديد؟ اطلعوا على [مفاهيم الورش](../workshops/).
+راسلونا على
+[hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de)
+وأخبرونا باختصار عن فكرتكم. تساعدنا المعلومات التالية على التخطيط الجيد.

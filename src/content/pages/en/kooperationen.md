@@ -1,6 +1,11 @@
 ---
 title: Collaborations
 background: light
+workshops:
+  - coding_im_dojo
+  - dashbot-challenges
+  - mBot-labyrinth
+  - gemeinsame-geschichte
 partners:
   title: Our Partners
   logos:
@@ -22,8 +27,11 @@ partners:
       name: Partner 8
 ---
 
-Are you part of a school or another educational institution and would like to collaborate with us?
+Are you part of a school or another educational institution and would like to
+offer a workshop with us? We plan the programme together. Our
+[workshop concepts](./workshops/) provide an overview of possible topics, and
+we are happy to develop your own idea with you.
 
-Send us an email at [hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de) or fill out our [contact form](../newsletter/).
-
-Would you like to know exactly what we offer? Check out our [workshop concepts](../workshops/).
+Send us a message at
+[hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de) and
+tell us briefly about your plans. The following information helps us prepare.
