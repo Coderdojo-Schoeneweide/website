@@ -6,6 +6,8 @@ Du bist bei einer Schule oder einer anderen Bildungseinrichtung und willst mit u
 
 Schreibe uns eine Mail an [hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de).
 
-Du möchtest wissen, was wir genau anbieten?
+Wir bieten Workshops **bei euch vor Ort**, **bei uns im CoderDojo** oder als
+gemeinsam geplante Kooperation an. Die Teilnahme soll für Kinder und
+Jugendliche kostenlos sein.
 
-Schau dir unsere [→ Workshop-Konzepte](./workshops/) an!
+Entdecke unsere [Workshop-Konzepte](./collaborations/).
