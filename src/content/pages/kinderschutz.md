@@ -8,7 +8,7 @@ Bei uns im CoderDojo Schöneweide nehmen wir den Schutz von Kindern und Jugendli
 
 **Du hast eine Frage, ein ungutes Gefühl oder möchtest etwas melden? Wir hören zu und nehmen dein Anliegen ernst.**
 
-→ [Zum Abschnitt: Etwas melden](#wenn-dir-etwas-auffällt)
+&rarr; [Zum Abschnitt: Etwas melden](#wenn-dir-etwas-auffällt)
 
 ---
 
@@ -24,10 +24,8 @@ Dazu gehören:
 
 - **Verbindliche Verhaltensregeln:** Unser Verhaltenskodex beschreibt, welches Verhalten wir im Umgang mit minderjährigen Teilnehmenden erwarten &rarr; [Unser Verhaltenskodex (PDF)](https://coderdojo-schoeneweide.de/docs/code-of-conduct.pdf)
 - **Überprüfung von Engagierten:** Personen, die im Rahmen ihres Engagements mit Kindern und Jugendlichen zu tun haben, müssen grundsätzlich ein erweitertes Führungszeugnis vorlegen. Für bestimmte Übergangs- und Ausnahmefälle sieht unser Schutzplan eine Selbstverpflichtungserklärung vor.
-- **Regelmäßige Schulungen:** Unsere Engagierten erhalten Gelegenheit, sich zum Kinder- und Jugendschutz fortzubilden.
+- **Regelmäßige Schulungen:** Unsere Engagierten bilden sich zu Kinder- und Jugendschutz fort.
 - **Klare Verantwortung:** Im Verein gibt es eine beauftragte Person für Kinder- und Jugendschutz.
-
-Unser Ziel ist es, mögliche Gefährdungen nicht erst dann ernst zu nehmen, wenn etwas passiert ist, sondern ihnen frühzeitig vorzubeugen.
 
 ### 2. Hinschauen und handeln
 
