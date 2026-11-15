@@ -4,7 +4,7 @@ background: light
 workshops:
   - coding_im_dojo
   - dashbot-challenges
-  - mBot-labyrinth
+  - mbot-labyrinth
   - gemeinsame-geschichte
 partners:
   title: شركاؤنا
@@ -28,7 +28,7 @@ partners:
 ---
 
 هل تمثلون مدرسة أو مؤسسة تعليمية أخرى وترغبون في تقديم ورشة عمل معنا؟
-نخطط للبرنامج معًا. تقدم [مفاهيم الورش](./workshops/) نظرة أولية على
+نخطط للبرنامج معًا. تقدم [مفاهيم الورش](../workshops/) نظرة أولية على
 الموضوعات الممكنة، كما يمكننا تطوير أفكاركم الخاصة معًا.
 
 راسلونا على

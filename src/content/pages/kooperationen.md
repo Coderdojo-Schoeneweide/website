@@ -4,7 +4,7 @@ background: light
 workshops:
   - coding_im_dojo
   - dashbot-challenges
-  - mBot-labyrinth
+  - mbot-labyrinth
   - gemeinsame-geschichte
 partners:
   title: Unsere Partner
@@ -29,7 +29,7 @@ partners:
 
 Du bist bei einer Schule oder einer anderen Bildungseinrichtung und möchtest
 mit uns einen Workshop anbieten? Wir planen das Angebot gemeinsam. Unsere
-[Workshop-Konzepte](./workshops/) geben dir einen ersten Überblick über
+[Workshop-Konzepte](../workshops/) geben dir einen ersten Überblick über
 mögliche Themen – eigene Ideen können wir ebenfalls weiterentwickeln.
 
 Schreib uns gern an
