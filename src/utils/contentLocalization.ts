@@ -160,8 +160,9 @@ export function findLocalizedEntryById(
     id: string,
     locale?: string,
 ): EntryWithId | undefined {
+    const normalizedId = id.toLowerCase();
     return selectLocalizedEntries(entries, locale).find(
-        (entry) => getBaseContentId(entry.id) === id,
+        (entry) => getBaseContentId(entry.id).toLowerCase() === normalizedId,
     );
 }
 
@@ -172,7 +173,8 @@ export function findLocalizedEntryBySlug(
     slug: string,
     locale?: string,
 ): EntryWithId | undefined {
+    const normalizedSlug = slug.toLowerCase();
     return selectLocalizedEntries(entries, locale).find(
-        (entry) => getRouteSlug(entry.id) === slug,
+        (entry) => getRouteSlug(entry.id).toLowerCase() === normalizedSlug,
     );
 }

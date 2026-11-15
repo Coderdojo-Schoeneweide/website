@@ -58,6 +58,7 @@ const pages = defineCollection({
     title: z.string(),
     subtitle: z.string().optional(),
     background: z.enum(['light', 'dark', 'accent']).default('light'),
+    workshops: z.array(z.string()).optional(),
     buttons: z.array(buttonSchema).optional(),
     // Newsletter form config (only for newsletter page)
     form: z

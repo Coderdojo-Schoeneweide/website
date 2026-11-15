@@ -13,7 +13,7 @@
         "imprint": "Impressum",
         "privacy-policy": "Datenschutzerklärung",
         "accessibility": "Barrierefreiheit",
-        "collaborations": "Kooperationen"
+        "collaborations": "Für Schulen"
       }
     },
     "locales": {
@@ -27,7 +27,8 @@
     },
     "common": {
       "buy-ticket-aria": "Kostenlos Anmelden",
-      "toggle-mobile-menu": "Mobiles Menü umschalten"
+      "toggle-mobile-menu": "Mobiles Menü umschalten",
+      "learn-more": "Mehr erfahren"
     },
     "homepage": {
       "title": {
@@ -66,7 +67,7 @@
         "imprint": "Imprint",
         "privacy-policy": "Privacy Policy",
         "accessibility": "Accessibility",
-        "collaborations": "Collaborations"
+        "collaborations": "For Schools"
       }
     },
     "locales": {
@@ -80,7 +81,8 @@
     },
     "common": {
       "buy-ticket-aria": "Book a ticket",
-      "toggle-mobile-menu": "Toggle mobile menu"
+      "toggle-mobile-menu": "Toggle mobile menu",
+      "learn-more": "Learn more"
     },
     "homepage": {
       "title": {
@@ -119,7 +121,7 @@
         "imprint": "بيانات النشر",
         "privacy-policy": "سياسة الخصوصية",
         "accessibility": "إمكانية الوصول",
-        "collaborations": "التعاونات"
+        "collaborations": "للمدارس"
       }
     },
     "locales": {
@@ -133,7 +135,8 @@
     },
     "common": {
       "buy-ticket-aria": "احجز تذكرة",
-      "toggle-mobile-menu": "تبديل القائمة على الهاتف"
+      "toggle-mobile-menu": "تبديل القائمة على الهاتف",
+      "learn-more": "اعرف المزيد"
     },
     "blog": {
       "overview": {

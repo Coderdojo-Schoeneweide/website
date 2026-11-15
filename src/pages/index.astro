@@ -4,7 +4,6 @@ import Layout from '@/layouts/Layout.astro';
 import heroBackground from '@/assets/images/home/hero-background.jpg';
 import titleBackground from '@/assets/images/home/title-background.svg?raw';
 import Button from '@/components/Button.astro';
-import Carousel from '@/components/Carousel.astro';
 import NewsletterConfirmation from '@/components/NewsletterConfirmation.astro';
 import {
   faEnvelope,
@@ -207,13 +206,13 @@ function getSection(id: string) {
   }
 
   {
-    getSection('collaborations').map(({ id, title, buttons, Content }) => (
+    getSection('collaborations').map(({ id, title, Content }) => (
       <HomeSection id={id} title={title} colorScheme="light">
         <Fragment slot="start">
           <Content />
-        </Fragment>
-        <Fragment slot="end">
-          <Carousel images="assets/images/partners" speed={50} />
+          <Button link={translatePath('/collaborations')}>
+            {t('common.learn-more')}
+          </Button>
         </Fragment>
       </HomeSection>
     ))

@@ -3,14 +3,22 @@
 import Layout from '../layouts/Layout.astro';
 import Hero from '../components/Hero.astro';
 import Partners from '../components/Partners.astro';
+import WorkshopGridIsland from '../components/islands/WorkshopGridIsland.jsx';
 import { getCollection, render } from 'astro:content';
-import { findLocalizedEntryById } from '@/utils/contentLocalization.ts';
+import { useTranslations } from '@/i18n.ts';
+import {
+  findLocalizedEntryById,
+  getBaseContentId,
+  resolveLocale,
+} from '@/utils/contentLocalization.ts';
 
+const locale = resolveLocale(Astro.currentLocale);
+const { t, translatePath } = useTranslations(Astro.currentLocale);
 const pages = await getCollection('pages');
 const page = findLocalizedEntryById(
   pages,
   'kooperationen',
-  Astro.currentLocale,
+  locale,
 );
 
 if (!page) {
@@ -18,11 +26,191 @@ if (!page) {
 }
 
 const { Content } = await render(page);
+const collaborationDetails =
+  locale === 'de' ?
+    {
+      title: 'So kann die Kooperation aussehen',
+      options: [
+        {
+          title: 'Bei euch vor Ort',
+          text: 'Wir kommen in eure Schule oder Einrichtung und bringen unser Workshop-Angebot mit.',
+        },
+        {
+          title: 'Bei uns',
+          text: 'Die Gruppe besucht das CoderDojo Schöneweide und arbeitet in unseren Räumen.',
+        },
+        {
+          title: 'Gemeinsam geplant',
+          text: 'Wir stimmen Thema, Ablauf, Technik und Rahmen gemeinsam auf eure Gruppe ab.',
+        },
+      ],
+      planningTitle: 'Diese Infos helfen uns bei der Planung',
+      planning: [
+        'Klassenstufe oder Alter und ungefähre Gruppengröße',
+        'Terminvorschläge oder gewünschter Zeitraum',
+        'Technik und Ausstattung vor Ort, zum Beispiel Computerraum und Internet',
+        'Gewünschtes Workshop-Thema, falls schon bekannt',
+        'Vorkenntnisse der Teilnehmenden',
+        'Budgetvorstellung – die Teilnahme soll kostenlos sein',
+      ],
+    }
+  : locale === 'en' ?
+    {
+      title: 'Ways to collaborate',
+      options: [
+        {
+          title: 'At your location',
+          text: 'We come to your school or institution and bring our workshop programme.',
+        },
+        {
+          title: 'At our location',
+          text: 'Your group visits CoderDojo Schöneweide and works in our space.',
+        },
+        {
+          title: 'Planned together',
+          text: 'We agree on the topic, schedule, equipment and format for your group.',
+        },
+      ],
+      planningTitle: 'Information that helps us plan',
+      planning: [
+        'Grade level or ages and approximate group size',
+        'Suggested dates or preferred period',
+        'Available equipment, such as a computer room and internet access',
+        'Desired workshop topic, if already known',
+        'Participants’ prior knowledge',
+        'Budget expectations – participation should be free',
+      ],
+    }
+  : {
+      title: 'طرق التعاون الممكنة',
+      options: [
+        {
+          title: 'في مؤسستكم',
+          text: 'نأتي إلى مدرستكم أو مؤسستكم ونقدم برنامج ورشات العمل لدينا.',
+        },
+        {
+          title: 'في مقرنا',
+          text: 'تزور المجموعة CoderDojo Schöneweide وتعمل في مقرنا.',
+        },
+        {
+          title: 'تخطيط مشترك',
+          text: 'ننسق الموضوع والموعد والمعدات والشكل بما يناسب مجموعتكم.',
+        },
+      ],
+      planningTitle: 'معلومات تساعدنا على التخطيط',
+      planning: [
+        'الصف الدراسي أو الأعمار وحجم المجموعة التقريبي',
+        'المواعيد المقترحة أو الفترة الزمنية المطلوبة',
+        'التجهيزات المتوفرة، مثل غرفة الحواسيب والإنترنت',
+        'موضوع الورشة المطلوب، إذا كان معروفًا',
+        'المعارف السابقة للمشاركين',
+        'الميزانية المتوقعة – يجب أن تكون المشاركة مجانية',
+      ],
+    };
+const allWorkshops = await getCollection('workshops');
+type WorkshopEntry = {
+  id: string;
+  body: string;
+  data: {
+    title: string;
+    description?: string;
+    duration?: string;
+    age?: string;
+    tags?: string[];
+    image?: string;
+    prevKnowledge?: string;
+  };
+};
+type CompleteWorkshopEntry = WorkshopEntry & {
+  data: WorkshopEntry['data'] & {
+    duration: string;
+    age: string;
+    tags: string[];
+    image: string;
+  };
+};
+
+const workshops = ((page.data.workshops ?? []) as string[])
+  .map((slug: string) =>
+    findLocalizedEntryById(allWorkshops, slug, locale) as
+      | WorkshopEntry
+      | undefined,
+  )
+  .filter(
+    (workshop): workshop is CompleteWorkshopEntry =>
+      Boolean(
+        workshop?.data.duration &&
+          workshop.data.age &&
+          workshop.data.tags?.length &&
+          workshop.data.image,
+      ),
+  )
+  .map((workshop) => ({
+    id: getBaseContentId(workshop.id),
+    title: workshop.data.title,
+    description: workshop.data.description ?? '',
+    duration: workshop.data.duration,
+    age: workshop.data.age,
+    tags: workshop.data.tags,
+    image: `/workshops/${getBaseContentId(workshop.id)}/${workshop.data.image}`,
+    prevKnowledge: workshop.data.prevKnowledge || t('workshops.prevKnowledge'),
+    content: workshop.body,
+    folder: getBaseContentId(workshop.id),
+  }));
 ---
 
 <Layout title={page.data.title}>
   <Hero hero={page.data}>
     <Content />
   </Hero>
+  <section class="bg-accent-light px-6 py-14 text-accent-900 dark:bg-gray-800 dark:text-gray-100">
+    <div class="container mx-auto max-w-6xl">
+      <h2 class="mb-8 text-center">{collaborationDetails.title}</h2>
+      <div class="grid gap-5 md:grid-cols-3">
+        {
+          collaborationDetails.options.map((option, index) => (
+            <article class="rounded-2xl border border-accent-100 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-900">
+              <span class="mb-5 flex h-10 w-10 items-center justify-center rounded-full bg-brand font-bold text-accent-900">
+                {String(index + 1).padStart(2, '0')}
+              </span>
+              <h3 class="mb-2 text-xl">{option.title}</h3>
+              <p class="text-base">{option.text}</p>
+            </article>
+          ))
+        }
+      </div>
+      <h2 class="mt-14 mb-8 text-center">{collaborationDetails.planningTitle}</h2>
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          collaborationDetails.planning.map((item, index) => (
+            <article class="flex items-start gap-4 rounded-xl bg-white p-5 shadow-sm dark:bg-gray-900">
+              <span class="text-lg font-black text-secondary-500">
+                {index + 1}
+              </span>
+              <p class="m-0 text-base">{item}</p>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+  {
+    workshops.length > 0 && (
+      <section class="bg-white py-12 text-accent-900 dark:bg-gray-900 dark:text-gray-100">
+        <div class="container mx-auto px-6">
+          <h2 class="mb-8 text-center">{t('menu.items.workshops')}</h2>
+          <WorkshopGridIsland workshops={workshops} client:load />
+          <div class="mt-10 text-center">
+            <a
+              href={translatePath('/workshops')}
+              class="font-bold text-secondary-500 underline underline-offset-4 transition hover:text-secondary-700"
+            >
+              {t('common.learn-more')} {t('menu.items.workshops')}
+            </a>
+          </div>
+        </div>
+      </section>
+    )
+  }
   {page.data.partners && <Partners partners={page.data.partners} />}
 </Layout>

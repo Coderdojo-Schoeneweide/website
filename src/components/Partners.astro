@@ -15,24 +15,26 @@ interface Props {
 const { partners } = Astro.props;
 ---
 
-<section class="bg-secondary-500 py-20 text-white dark:bg-orange-700">
+<section
+  class="border-accent-100 bg-white py-10 text-accent-900 dark:bg-gray-900 dark:text-gray-100"
+>
   <div class="container mx-auto px-6">
-    <div class="mx-auto max-w-4xl text-center">
-      <h2 class="mb-8 text-4xl font-bold text-white">
+    <div class="mx-auto max-w-5xl text-center">
+      <h2 class="mb-6 text-2xl font-bold">
         {partners.title}
       </h2>
 
       <!-- Partner Logos Grid -->
       <div
-        class="grid grid-cols-2 items-center justify-items-center gap-8 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5"
+        class="flex flex-wrap items-center justify-center gap-4"
       >
         {
           partners.logos.map((partner, index) => (
-            <div class="rounded-lg bg-white p-6 shadow-xs transition-shadow hover:shadow-md dark:bg-gray-700">
+            <div class="flex h-20 w-28 items-center justify-center rounded-lg border border-gray-100 bg-white p-3 shadow-xs transition-shadow hover:shadow-md dark:border-gray-700 dark:bg-gray-800">
               <img
                 src={partner.image}
                 alt={partner.name}
-                class="mx-auto max-h-16 w-auto cursor-pointer grayscale filter transition-all duration-300 hover:grayscale-0"
+                class="mx-auto max-h-10 w-auto cursor-pointer grayscale filter transition-all duration-300 hover:grayscale-0"
                 onclick={`openPartnerModal(${index})`}
               />
             </div>

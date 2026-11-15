@@ -6,6 +6,8 @@ Are you part of a school or another educational institution and would like to co
 
 Send us an email at [hallo@coderdojo-schoeneweide.de](mailto:hallo@coderdojo-schoeneweide.de).
 
-Would you like to know exactly what we offer?
+We offer workshops **at your location**, **at CoderDojo**, or as a jointly
+planned collaboration. Participation should be free for children and young
+people.
 
-Take a look at our [→ workshop concepts](./workshops/)!
+Discover our [workshop concepts](./collaborations/).
