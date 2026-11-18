@@ -1,11 +1,20 @@
 ---
 import Layout from './Layout.astro';
-const { title } = Astro.props.frontmatter ?? Astro.props;
+const { title, style = 'dark' } = Astro.props.frontmatter ?? Astro.props;
+const sectionStyle = style === 'light' ? 'section-light' : 'section-dark';
 ---
 
 <Layout>
-  <section class="px-content py-8">
+  <section class=`${sectionStyle} px-content page-content py-8`>
     <h1>{title}</h1>
     <slot />
   </section>
 </Layout>
+
+<style is:global>
+  .page-content {
+    a {
+      @apply underline;
+    }
+  }
+</style>
