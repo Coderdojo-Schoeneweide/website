@@ -61,7 +61,7 @@ Das gilt auch, wenn du noch nicht sicher bist, wie du das Erlebte einordnen soll
 
 Mit Anliegen zum Kinder- und Jugendschutz kannst du dich an die zuständige Ansprechperson unseres Vereins wenden.
 
-- Kontakt: **[E-Mail-Adresse der Kinderschutz-Ansprechperson ergänzen]**
+- Kontakt: [safeguarding@coderdojo-schoeneweide.de](mailto:safeguarding@coderdojo-schoeneweide.de)
 
 Du kannst uns auch kontaktieren, wenn du zunächst nur eine Frage hast oder wissen möchtest, wie du mit einer Situation umgehen kannst.
 
@@ -113,13 +113,14 @@ Wenn ihr Fragen, Beobachtungen oder Sorgen habt, könnt ihr euch an unsere Kinde
 
 **Ihr müsst nicht sicher sein, dass etwas vorgefallen ist, um eine Sorge anzusprechen.** Auch eine zunächst unklare Beobachtung kann ein guter Grund sein, nachzufragen.
 
-Kontakt: **[E-Mail-Adresse der Kinderschutz-Ansprechperson ergänzen]**
+Kontakt: [safeguarding@coderdojo-schoeneweide.de](mailto:safeguarding@coderdojo-schoeneweide.de)
 
 ---
 
 ## Weiterführende Informationen
 
-- [Verhaltenskodex des CoderDojo Schöneweide e.V. (PDF)](https://coderdojo-schoeneweide.de/docs/code-of-conduct.pdf)
+- [Kinder- und Jugendschutzplan (PDF)](/docs/kinderschutzkonzept.pdf)
+- [Verhaltenskodex des CoderDojo Schöneweide e.V. (PDF)](/docs/code-of-conduct.pdf)
 - [Kinderschutzinformationen der Raspberry Pi Foundation](https://www.raspberrypi.org/safeguarding/)
 
 Unser Kinder- und Jugendschutzplan bildet die Grundlage für unsere Maßnahmen. Die konkreten Schutzvorkehrungen werden regelmäßig überprüft und bei Bedarf weiterentwickelt.
@@ -130,4 +131,4 @@ Unser Kinder- und Jugendschutzplan bildet die Grundlage für unsere Maßnahmen. 
 
 Ob du Kind, Jugendliche:r, Elternteil oder eine andere interessierte Person bist: Wenn du Fragen zum Kinderschutz hast oder etwas melden möchtest, kannst du dich an uns wenden.
 
-**[Kontakt zur Kinderschutz-Ansprechperson: E-Mail-Adresse ergänzen]**
+[safeguarding@coderdojo-schoeneweide.de](mailto:safeguarding@coderdojo-schoeneweide.de)
